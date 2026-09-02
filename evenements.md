@@ -783,5 +783,6 @@ Ils doivent être distingués des événements affectant réellement l'organisat
 - [Saccages et Vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Sources et archives](sources.md)
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 **Ad Vitam Æternam.**
