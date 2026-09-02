@@ -26,9 +26,9 @@ La Mafia-Habbo ferme officiellement ses portes le **18 février 2021**.
 
 ---
 
-# 2005 — Fondation de la Mafia-Habbo
+## 2005 — Fondation de la Mafia-Habbo
 
-## 15 avril : création
+### 15 avril : création
 
 Le **15 avril 2005**, **Don Krapule** crée la Mafia-Habbo.
 
@@ -55,7 +55,7 @@ Parmi les premiers membres cités dans les archives figurent notamment :
 
 **Mattyboy, Karzac, Chichoone, Aurelien76**, puis **Arno600, Perceval, Pilous, Duc.Leto, maximi01, Vincent-Vitti, Zek** et d'autres.
 
-## Apparition du Gang U$A
+### Apparition du Gang U$A
 
 À la fin du mois d'avril apparaît le **Gang U$A**, créé par **Don Lilnigga**.
 
@@ -71,7 +71,7 @@ La MH organise également son premier **blocage du Grand Hall de Habbo Hotel**, 
 
 Lors d'un blocage, Krapule rencontre Lilnigga. Une alliance se crée entre la Mafia-Habbo et le Gang U$A et les deux groupes commencent à organiser certaines opérations ensemble.
 
-## Le premier saccage
+### Le premier saccage
 
 Les archives de la Mafia-Habbo placent également en 2005 l'invention du **saccage**.
 
@@ -79,7 +79,7 @@ L'idée consiste à trouver une nouvelle arme contre les organisations concurren
 
 Le saccage deviendra progressivement l'une des activités fondamentales de tout le RPK.
 
-## Le projet Mafia-Habbo
+### Le projet Mafia-Habbo
 
 Krapule envisage alors une sorte de communauté regroupant différentes mafias sous le nom de **Mafia-Habbo**.
 
@@ -91,13 +91,13 @@ Le Gang U$A finit par intégrer la Mafia-Habbo aux côtés de la Famille K. Chaq
 
 Au début du mois de mai, les archives présentent déjà la Mafia-Habbo comme la mafia la plus riche et la plus puissante de l'hôtel.
 
-## Mai et juin
+### Mai et juin
 
 Le **20 mai**, dans un épisode relevant explicitement du lore humoristique de l'époque, la Mafia-Habbo revendique le kidnapping d'un chat appartenant à Norman, alors même que les animaux ne sont pas encore disponibles au catalogue.
 
 Vers le **1er juin 2005**, les archives donnent la composition suivante :
 
-### Famille K
+#### Famille K
 
 - Don Krapule
 - Capo Madfreddy
@@ -111,7 +111,7 @@ Vers le **1er juin 2005**, les archives donnent la composition suivante :
 - Zek
 - etc.
 
-### Famille U$A
+#### Famille U$A
 
 - Don Lilnigga
 - Capo S-kro
@@ -127,7 +127,7 @@ Devenu très connu dans le milieu, il fréquente moins les lieux publics et comm
 
 Le **20 juin**, le **Mafia Palace** est aménagé.
 
-## Le concierge
+### Le concierge
 
 En juillet, Krapule met en place un **compte commun** destiné à gérer plus facilement les accréditations et le mobilier de la famille.
 
@@ -135,7 +135,7 @@ Ce système deviendra plus tard connu sous le nom de **concierge**.
 
 L'objectif est de ne pas faire dépendre tous les lieux de la famille du compte personnel d'un seul dirigeant et de faciliter leur transmission.
 
-## Changements de dirigeants
+### Changements de dirigeants
 
 À l'automne 2005, la chronologie adopte un ton beaucoup plus RP.
 
@@ -145,7 +145,7 @@ Le **1er octobre**, un « attentat » est raconté contre Don Krapule.
 
 En septembre est également créé le **Grand Hall de la Mafia-Habbo**, grande salle destinée à afficher la richesse de l'organisation.
 
-## Le Gen13
+### Le Gen13
 
 En octobre apparaît le **Gen13**, décrit comme une élite d'espions extérieure à la Mafia-Habbo.
 
@@ -168,7 +168,7 @@ Le **5 novembre** :
 
 En novembre, une alliance est conclue avec le Gen13, alors dirigé par trois « Genesis » : **Flamers, Frukoz et YokiPeACh**.
 
-## Le MH-Mag et le premier sigle
+### Le MH-Mag et le premier sigle
 
 En décembre apparaît le **MH-Mag**, présenté comme le premier journal mafieux.
 
@@ -184,9 +184,9 @@ L'alliance entre les deux organisations prend fin et le Gen13 décline progressi
 
 ---
 
-# 2006 — De l'hégémonie à la concurrence
+## 2006 — De l'hégémonie à la concurrence
 
-## Alliance avec Habbo-Tueur
+### Alliance avec Habbo-Tueur
 
 En janvier, **Vincent-Vitti** organise une alliance avec la mafia **Habbo-Tueur**, dite **HT**, dirigée par **Yasbogosmen**.
 
@@ -196,7 +196,7 @@ Le **13 février**, elle inaugure un nouveau Grand Hall de très grande taille �
 
 Les archives utilisent cet aménagement comme démonstration de la capacité financière de la famille.
 
-## Les certificats
+### Les certificats
 
 En mars apparaissent les premiers **certificats**.
 
@@ -211,7 +211,7 @@ Le **20 mars**, Krapule propose à Habbo-Tueur d'intégrer officiellement la Maf
 
 La MH se retrouve alors composée de plusieurs familles.
 
-## Avril : développement et tensions
+### Avril : développement et tensions
 
 Le **4 avril**, un nouveau Grand Hall est inauguré avec trois téléporteurs.
 
@@ -229,7 +229,7 @@ Le **6 avril** est lancé le projet RP **S.P.L.A.F.**, présenté comme destiné
 
 Le **8 avril**, **Perceval** et **ephysio** inaugurent le **Club Casino**, présenté comme un casino privé où les joueurs peuvent miser du mobilier sans arnaque.
 
-## Départ de la U$A
+### Départ de la U$A
 
 Le **9 avril**, Lilnigga disparaît.
 
@@ -241,7 +241,7 @@ Elle devient alors une organisation indépendante sous le nom de **U$A-Family**.
 
 Certains anciens membres U$A, dont Abdoul93, restent cependant à la MH.
 
-## Départ de la HT et naissance de la Famille V
+### Départ de la HT et naissance de la Famille V
 
 Le **27 mai**, Habbo-Tueur se sépare elle aussi de la Mafia-Habbo.
 
@@ -254,7 +254,7 @@ Elle est dirigée par :
 - **Don Kidvirus**
 - **Kallysto**, Bras-Droit.
 
-## Évolution de la hiérarchie
+### Évolution de la hiérarchie
 
 Le **2 juin** est instauré le grade de **Consigliere**, occupé par **Giorgo**.
 
@@ -262,7 +262,7 @@ Le **23 juillet**, une nouvelle règle limite l'usage du murmure : seuls certain
 
 Le **31 juillet**, le grade de **Postulant** devient commun aux différentes familles. Le candidat ne choisit plus nécessairement la branche qu'il rejoindra après son recrutement.
 
-## Guerre avec la U$A et alliance Bjork
+### Guerre avec la U$A et alliance Bjork
 
 Le **16 août**, après la séparation, la Mafia-Habbo saccage son ancienne alliée U$A.
 
@@ -291,7 +291,7 @@ Le **30 décembre**, Don Leto et Kallysto quittent leurs fonctions. Ils sont rem
 
 ---
 
-# 2007 — Sommeil, relance et Grand Palace
+## 2007 — Sommeil, relance et Grand Palace
 
 Le **11 janvier**, l'alliance entre la Bjork et la Mafia-Habbo prend fin.
 
@@ -301,7 +301,7 @@ Au printemps, Darksidegirl quitte la MH pour la U$A puis crée la **FFV**, ou Fa
 
 **Kpone** crée ensuite la famille Carlisi.
 
-## Période de sommeil
+### Période de sommeil
 
 En mars, les archives décrivent la Mafia-Habbo comme étant « en sommeil ».
 
@@ -311,7 +311,7 @@ Il est secondé par **Baron Luftkrawerk**.
 
 Du côté de la Famille V, **Kidvirus** reprend la direction avec **Kallysto** comme seconde.
 
-## Le premier Grand Palace
+### Le premier Grand Palace
 
 En avril apparaît le premier **Grand Palace**, rapidement abrégé **GP**.
 
@@ -321,13 +321,13 @@ Le **17 avril**, **MoneyOfChristo** et **HarX** offrent à la MH le saccage de l
 
 À la fin mai, Kidvirus et Kallysto quittent la Mafia-Habbo.
 
-## Projets de Krapule
+### Projets de Krapule
 
 En août, Krapule revient avec le projet **HabboVille**, présenté comme une ville démocratique organisée sur Habbo avec ses propres lois.
 
 À la fin du mois est également lancé un serveur **Counter-Strike MH**, sponsorisé par YokiPeACh. Le projet est rapidement abandonné en raison du temps nécessaire à son administration.
 
-## Réunification
+### Réunification
 
 Le **19 octobre**, les deux familles internes sont réunifiées.
 
@@ -347,7 +347,7 @@ Le **2 décembre**, Dinozzzo est promu Affranchi et Vince Affidé.
 
 ---
 
-# 2008 — Révolution interne
+## 2008 — Révolution interne
 
 Le **5 janvier**, le CRS est promu Affranchi.
 
@@ -367,7 +367,7 @@ L'ancienne Famille V est également reconstruite.
 
 Un **Traité de la Révolution** est signé par les anciens et les membres de la famille.
 
-## Habbo Mafia et Havana Club
+### Habbo Mafia et Havana Club
 
 Le **11 mars**, Krapule crée le site **Habbo Mafia**.
 
@@ -384,7 +384,7 @@ Le **4 avril**, le CRS devient Légiste.
 
 Le **15 avril**, la Mafia-Habbo célèbre son troisième anniversaire.
 
-## Alliances et promotions
+### Alliances et promotions
 
 Le **20 avril**, une alliance est officialisée avec la **Famille Liggio**.
 
@@ -405,7 +405,7 @@ Le **15 août** :
 
 Le **19 août**, l'alliance avec la Famille Liggio est rompue à la suite de problèmes internes chez cette dernière.
 
-## Changements de dirigeants
+### Changements de dirigeants
 
 Le **22 août**, Darksidegirl se retire.
 
@@ -417,7 +417,7 @@ Le **27 septembre**, Perceval disparaît temporairement de la direction dans le 
 
 **Marccelo** devient alors Don et **Diabloelo2** son Bras-Droit.
 
-## Trahison de Darksidegirl
+### Trahison de Darksidegirl
 
 Le **22 octobre**, l'ancienne Donna Darksidegirl trahit la Mafia-Habbo et participe à un saccage en faveur de la U$A.
 
@@ -425,13 +425,13 @@ Le **22 octobre**, l'ancienne Donna Darksidegirl trahit la Mafia-Habbo et partic
 
 ---
 
-# 2009 — Révolte, nouvelle génération et nouveau forum
+## 2009 — Révolte, nouvelle génération et nouveau forum
 
 Le **10 janvier**, Krakoss devient Affranchi.
 
 Le **16 janvier**, Dinozzzo devient Capo de la Famille K.
 
-## Révolte de janvier
+### Révolte de janvier
 
 Dans la nuit du **30 janvier**, une conspiration vise le pouvoir en place.
 
@@ -447,7 +447,7 @@ Le **13 février**, plusieurs révolutionnaires fondent la **Crimine-Organizzato
 
 Le lendemain, Meds se rachète en saccageant la nouvelle organisation et revient à la MH au grade de Fripouille.
 
-## Rivalités et réformes
+### Rivalités et réformes
 
 Le **18 février**, la Bjork-Family est saccagée.
 
@@ -464,7 +464,7 @@ Plusieurs promotions sont annoncées :
 - Meds devient Affidé ;
 - Medzo devient Bras-Droit de la Famille V.
 
-## Diabloelo2 devient Parrain
+### Diabloelo2 devient Parrain
 
 Le **26 juin**, Marccelo rejoint les Anciens.
 
@@ -476,7 +476,7 @@ Le rôle du Consigliere est alors réintroduit comme position pouvant notamment 
 
 Le système des associés est également réorganisé.
 
-## Fin de l'été
+### Fin de l'été
 
 À la mi-août, le Grand Palace est entièrement redécoré après près de deux ans sans modification importante.
 
@@ -488,7 +488,7 @@ Le **11 septembre**, Med et Zampieri rejoignent le Grand Conseil.
 
 Le **13 septembre**, Meds et Ship deviennent également Capi.
 
-## Création du nouveau forum
+### Création du nouveau forum
 
 Le **30 septembre**, un associé nommé **Lexluthor** tente, selon les archives, de se faire passer pour Don Leto.
 
@@ -508,7 +508,7 @@ La fin de l'année est marquée par plusieurs nouveaux saccages, notamment contr
 
 ---
 
-# 2010 — Réunification et âge des Vendettas
+## 2010 — Réunification et âge des Vendettas
 
 L'année commence avec plusieurs départs et retraites :
 
@@ -524,11 +524,11 @@ Le **21 février**, Peter10 devient Capo.
 
 Le **24 février**, **Medzo00** devient officiellement Don de la Famille V.
 
-## Missions RPG
+### Missions RPG
 
 Le **13 mars** a lieu un premier test des **Missions RPG**, activités confiées aux membres par les hauts-gradés.
 
-## Réunification du 3 avril
+### Réunification du 3 avril
 
 Le **3 avril**, les Dons et le Grand Conseil décident de mettre fin à la séparation entre Famille K et Famille V.
 
@@ -542,13 +542,13 @@ Le **15 avril**, l'organisation fête ses cinq ans.
 
 Une grande soirée est organisée et des meubles sont distribués aux joueurs les plus pauvres.
 
-## Infiltrations
+### Infiltrations
 
 Le **19 juin**, **Valtieri** et **Moltisanti** reviennent à la Mafia-Habbo après ce que les archives présentent comme **plus de deux années d'infiltration** dans différentes familles et groupes d'influence.
 
 Ils concluent leur opération en saccageant la **Cicero Crime Family**.
 
-## Il Divino et nouveau Grand Palace
+### Il Divino et nouveau Grand Palace
 
 Le **26 juin**, Diablo célèbre un an de règne, ce qui constitue alors un record de longévité pour un Parrain.
 
@@ -568,7 +568,7 @@ Le **21 juillet**, un nouveau **Grand Palace** à l'ambiance plus orientée RPG 
 
 À la fin du mois apparaissent les **sorties en famille**, destinées notamment à remplacer progressivement les anciens blocages.
 
-## Saccages de la Famille Vittoria
+### Saccages de la Famille Vittoria
 
 Le **13 août**, la Famille Vittoria est saccagée au moyen d'une usurpation préparée par Sayc.
 
@@ -576,7 +576,7 @@ L'organisation ferme après l'opération.
 
 Elle rouvre toutefois et subit un second saccage le **7 septembre**, réalisé par Kronicles.
 
-## Vendetta d'été
+### Vendetta d'été
 
 À la fin août se déroule une importante **Vendetta d'été**.
 
@@ -601,7 +601,7 @@ Les meilleurs saccageurs sont :
 4. Mr.amme-pasc — 11
 5. Aubin59, Axeloux26 et Kil0a — 8
 
-## Fin d'année
+### Fin d'année
 
 Le **8 octobre**, Medzo disparaît dans une intrigue RP.
 
@@ -613,7 +613,7 @@ Le **21 octobre**, la Bjork-Family est de nouveau saccagée.
 
 Une Vendetta hivernale organisée en décembre atteint **154 saccages**.
 
-## Sayc succède à Diablo
+### Sayc succède à Diablo
 
 Le **26 décembre**, Diabloelo2 prend sa retraite après environ quatre années de présence dans la famille.
 
@@ -630,19 +630,19 @@ Plusieurs promotions sont également annoncées.
 
 ---
 
-# 2011 — De Sayc à Alshak
+## 2011 — De Sayc à Alshak
 
 Le **8 janvier**, la Famille Ancelotti est saccagée.
 
 Le **9 janvier**, Meds93 revient à la Mafia-Habbo au grade de Maestro.
 
-## L'épisode Yakuza
+### L'épisode Yakuza
 
 En janvier, les archives racontent une rencontre RP avec des dirigeants Yakuza.
 
 Le **22 janvier**, ceux-ci sont reçus par la Mafia-Habbo dans un piège mettant en scène de faux dirigeants et des membres cachés dans la salle.
 
-## Ascension de Valtieri
+### Ascension de Valtieri
 
 Le **6 avril**, le Voyou **Valtieri** réalise simultanément des sigles contre la **Cosa Nostra** et la **Vizzini**.
 
@@ -663,13 +663,13 @@ Le **22 avril**, Voklov et Valtieri deviennent Affranchis.
 
 Le **30 avril**, Perceval revient comme Consigliere.
 
-## Disparition de la U$A
+### Disparition de la U$A
 
 Le **23 mai**, la **U$A-Family** ferme après environ six années d'existence.
 
 La Mafia-Habbo lui rend hommage malgré leur longue rivalité.
 
-## Alshak succède à Sayc
+### Alshak succède à Sayc
 
 Le **17 juin**, le lore annonce la mort de Don Sayc.
 
@@ -683,15 +683,15 @@ Perceval devient Capo et Xirtz Affranchi.
 
 Les jours suivants sont consacrés à une grande intrigue de vendetta destinée à venger Sayc.
 
-## Liberté vestimentaire
+### Liberté vestimentaire
 
 Le **8 juillet**, les hauts-gradés reçoivent davantage de liberté concernant leurs tenues. Ils ne sont plus obligés de porter systématiquement l'uniforme traditionnel.
 
-## Vendetta d'été
+### Vendetta d'été
 
 Fin août, une nouvelle Vendetta d'été se termine avec **129 saccages réalisés en une semaine**.
 
-## Fin de règne
+### Fin de règne
 
 Le **11 septembre**, Diabloelo2, revenu depuis sa retraite, se retire à nouveau.
 
@@ -721,7 +721,7 @@ Diabloelo2 reprend du service comme Bras-Droit.
 
 ---
 
-# 2012 — Entre Alessio, Sayc et Zero
+## 2012 — Entre Alessio, Sayc et Zero
 
 Le **2 janvier**, Petz54 devient Affranchi.
 
@@ -729,7 +729,7 @@ Le **29 janvier**, un nouveau Casino ouvre.
 
 Le **10 février**, un nouveau Havana Club est inauguré, ainsi qu'**Alta Vista**, présenté comme un district contrôlé par la famille.
 
-## Retraite d'Alessio
+### Retraite d'Alessio
 
 Le **9 mars**, Alessio annonce sa retraite.
 
@@ -746,13 +746,13 @@ Il nomme notamment :
 
 parmi les Capi chargés de l'assister.
 
-## Retour de Sayc
+### Retour de Sayc
 
 Le **30 avril**, Maleico révèle son identité :
 
 il s'agit en réalité de **Sayc**, que le lore faisait passer pour mort depuis 2011.
 
-## Réforme du postulat
+### Réforme du postulat
 
 Le **15 mai**, le système de postulat est réformé.
 
@@ -763,13 +763,13 @@ Le forum est également réorganisé pour mieux séparer :
 - le fonctionnement de la famille ;
 - son histoire.
 
-## La Kompany
+### La Kompany
 
 Le **3 juin**, la **Kompany**, société servant de couverture civile à la famille, développe ses activités et ouvre le **Vitti's Casino**.
 
 Le même jour, Diabloelo2 annonce une nouvelle fois son retrait.
 
-## Zero devient Parrain
+### Zero devient Parrain
 
 Le **22 septembre**, **Zero** succède à Sayc.
 
@@ -785,13 +785,13 @@ Le **20 décembre**, Basile.Jr est sanctionné par la modération de Habbo dans 
 
 ---
 
-# 2013 — Développement du RP et règne de Valtieri
+## 2013 — Développement du RP et règne de Valtieri
 
 Le **27 janvier**, Zero revient après une période d'absence.
 
 Plusieurs salles sont reconstruites, notamment un nouveau Divino.
 
-## Actions RP et journal Le K
+### Actions RP et journal Le K
 
 Le **6 février**, les **actions RP** sont officiellement lancées.
 
@@ -803,11 +803,11 @@ Le **13 février**, un nouveau journal apparaît :
 
 Son nom fait référence à Krapule et à la première famille de la Mafia-Habbo.
 
-## Huitième anniversaire
+### Huitième anniversaire
 
 Le **15 avril**, la MH fête ses huit ans.
 
-## Valtieri devient Parrain
+### Valtieri devient Parrain
 
 Le **23 juin**, une importante série de promotions est annoncée :
 
@@ -819,11 +819,11 @@ Le **23 juin**, une importante série de promotions est annoncée :
 - maxdeouges devient Affranchi ;
 - KingMan revient au grade d'Affranchi.
 
-## Conflit avec la Sacra Corona Unita
+### Conflit avec la Sacra Corona Unita
 
 Le **30 juin**, la Mafia-Habbo annonce l'exclusion de la **Sacra Corona Unita** du RPG qu'elle reconnaît, en invoquant des pratiques jugées contraires aux règles du jeu.
 
-## Activités communautaires
+### Activités communautaires
 
 Le **6 juillet**, la MH organise un grand don de mobilier aux joueurs les plus pauvres.
 
@@ -831,13 +831,13 @@ Une nouvelle radio liée à la Kompany est également lancée :
 
 **La FréKence**.
 
-## The-Outfit
+### The-Outfit
 
 Le **1er septembre**, la Mafia-Habbo revendique le saccage intégral de **The-Outfit**, réalisé par l'intermédiaire d'Empty.Jones.
 
 L'organisation ferme moins d'une semaine plus tard.
 
-## Fin d'année
+### Fin d'année
 
 En octobre, Ph0sphore prend sa retraite.
 
@@ -853,7 +853,7 @@ Le **27 décembre**, une Vendetta d'hiver est lancée en l'honneur de Valtieri.
 
 ---
 
-# 2014 — Retour de Valtieri et crise des Aînés
+## 2014 — Retour de Valtieri et crise des Aînés
 
 Le **3 janvier**, la Vendetta d'hiver se termine.
 
@@ -863,7 +863,7 @@ Le **9 février**, Valtieri revient officiellement à la tête de la Mafia-Habbo
 
 Affondo reprend sa retraite.
 
-## Activité et locaux
+### Activité et locaux
 
 Le **4 avril**, John.McReary réalise un nouveau saccage de la Famille Vittoria.
 
@@ -873,7 +873,7 @@ Le **28 avril**, le forum reçoit un nouveau design grâce notamment à Choosen 
 
 En août, **Il Divino** est rénové.
 
-## Dissolution des Aînés
+### Dissolution des Aînés
 
 Le **5 septembre 2014** survient l'une des crises institutionnelles les plus importantes de l'histoire de la Mafia-Habbo.
 
@@ -894,7 +894,7 @@ Il réaffirme que le **Grand Conseil constitue le seul organe plénipotentiaire 
 
 Les anciens dirigeants concernés sont alors considérés comme traîtres par la famille.
 
-## Gemeni succède à Valtieri
+### Gemeni succède à Valtieri
 
 Le **4 novembre**, une grande cérémonie est organisée au Grand Palace.
 
@@ -921,7 +921,7 @@ Le **11 décembre**, les familles internes font leur retour :
 
 ---
 
-# 2015 — Dixième anniversaire
+## 2015 — Dixième anniversaire
 
 L'année commence avec plusieurs activités organisées au Divino et dans les établissements liés à la famille.
 
@@ -929,7 +929,7 @@ Le **18 février**, un événement soutenu par les staffs met la Mafia-Habbo à 
 
 Une nouvelle Vendetta d'hiver est lancée le **23 février**.
 
-## Dix ans
+### Dix ans
 
 Le **15 avril 2015**, la Mafia-Habbo fête officiellement ses **10 ans d'existence**.
 
@@ -937,7 +937,7 @@ Une grande soirée est organisée le 18 avril.
 
 Les archives décrivent un appartement complet pendant toute la durée de l'événement.
 
-## Relations internationales
+### Relations internationales
 
 Le **4 juin**, la MH participe à un rassemblement de familles mafieuses organisé sur l'hôtel italien.
 
@@ -945,13 +945,13 @@ Elle y est représentée par Capablanca.
 
 Le **22 juin**, la Mafia-Habbo organise à son tour une rencontre entre plusieurs organisations internationales afin de débattre du RPG.
 
-## Réunification
+### Réunification
 
 Le **26 juin**, les familles Krapule et Vitti sont supprimées par décision du Grand Conseil.
 
 La Mafia-Habbo est une nouvelle fois réunifiée.
 
-## La Kartouche
+### La Kartouche
 
 Le **15 novembre**, la première édition d'un nouveau journal est publiée :
 
@@ -961,11 +961,11 @@ Les archives revendiquent plus de 1 000 vues en une semaine, ce qui en ferait l'
 
 ---
 
-# 2016 — Capablanca et nouvelles réformes
+## 2016 — Capablanca et nouvelles réformes
 
 Le **13 janvier**, paraît la troisième édition de La Kartouche.
 
-## Vendetta contre la Vagos-Family
+### Vendetta contre la Vagos-Family
 
 Le **29 janvier**, la Mafia-Habbo organise une Vendetta contre la **Vagos-Family**, au nom notamment de sa conception des règles et de la lutte contre le hack.
 
@@ -975,11 +975,11 @@ La MH publie un communiqué à destination de la Bjork.
 
 Le **14 février**, La Kartouche publie une édition spéciale consacrée à cette rivalité.
 
-## Relations avec Habbo
+### Relations avec Habbo
 
 Le **30 mars**, une seconde réunion est organisée entre des dirigeants de l'hôtel et les responsables des principales familles mafieuses.
 
-## Capablanca devient Parrain
+### Capablanca devient Parrain
 
 Le **15 avril**, la Mafia-Habbo fête ses onze ans.
 
@@ -995,7 +995,7 @@ Gualtiero devient Crapule.
 
 Une grande soirée est ensuite organisée au Havana Club.
 
-## Visite de Krapule
+### Visite de Krapule
 
 Le **21 juin**, **Krapule** revient sur Habbo pour une visite de courtoisie.
 
@@ -1020,7 +1020,7 @@ Il adresse ses respects à :
 
 Cette visite constitue l'une des dernières interventions publiques connues du fondateur auprès de l'organisation.
 
-## Réformes
+### Réformes
 
 Le **7 juillet**, la Mafia-Habbo annonce deux réformes importantes :
 
@@ -1041,7 +1041,7 @@ Le **31 décembre**, le Grand Conseil annonce que plus de **30 événements de d
 
 ---
 
-# 2017 — Dernières grandes guerres
+## 2017 — Dernières grandes guerres
 
 Le **12 janvier**, Forcal quitte temporairement ses fonctions.
 
@@ -1053,11 +1053,11 @@ Le **15 avril**, la MH fête ses douze ans.
 
 À cette occasion, plusieurs événements communautaires sont organisés avec des badges exclusifs.
 
-## La Kartouche
+### La Kartouche
 
 Le **7 mai**, La Kartouche revient après une longue absence, avant que cette édition ne disparaisse.
 
-## Winchester's
+### Winchester's
 
 Le **23 juillet**, **Emestris, Kikcss et Hotep** saccagent l'intégralité de la **Winchester's**.
 
@@ -1065,7 +1065,7 @@ Emestris rejoint alors la Mafia-Habbo au grade de Crapule.
 
 Le **25 juillet**, le Divino atteint selon les archives un niveau de fréquentation exceptionnel et devient momentanément l'un des appartements les plus fréquentés de l'hôtel.
 
-## Bjork-Family
+### Bjork-Family
 
 Le **30 décembre**, la Mafia-Habbo revendique la **destruction totale de la Bjork-Family**.
 
@@ -1075,7 +1075,7 @@ Le lendemain, le badge civil atteint **5 000 adhérents**.
 
 ---
 
-# 2018 — Fin du règne de Capablanca et arrivée de Redrem
+## 2018 — Fin du règne de Capablanca et arrivée de Redrem
 
 Le **3 janvier**, Haileey quitte temporairement ses fonctions actives pour devenir associée.
 
@@ -1085,7 +1085,7 @@ Le **7 janvier**, plusieurs promotions sont annoncées au Grand Palace :
 - Lapine470 devient Crapule ;
 - Auzon devient Affranchi.
 
-## Retour de La Kompany
+### Retour de La Kompany
 
 Le **24 mars**, un gala est organisé pour inaugurer une nouvelle version de **La Kompany**, branche civile de la Mafia-Habbo.
 
@@ -1097,7 +1097,7 @@ Les archives annoncent :
 - de nouvelles branches ;
 - une nouvelle identité visuelle.
 
-## Redrem devient Parrain
+### Redrem devient Parrain
 
 Le **26 mars**, Capablanca annonce sa retraite prochaine.
 
@@ -1121,7 +1121,7 @@ Le **17 juillet**, le badge civil atteint **6 000 adhérents**.
 
 Le **25 novembre**, Eurocrate et Troy.Dempsey deviennent Affranchis.
 
-## Nouveau saccage de la Bjork
+### Nouveau saccage de la Bjork
 
 Dans la nuit du **26 novembre**, Confringo saccage presque intégralement la Bjork-Family pour la Mafia-Habbo.
 
@@ -1131,7 +1131,7 @@ La Bjork-Family ferme officiellement à la suite de cette nouvelle attaque.
 
 ---
 
-# 2019 — Dernière phase du RPK traditionnel
+## 2019 — Dernière phase du RPK traditionnel
 
 Le **31 mars**, une importante cérémonie est organisée au Grand Palace.
 
@@ -1146,7 +1146,7 @@ Plusieurs changements interviennent au Grand Conseil :
 
 Le **3 avril**, le badge civil atteint **7 000 adhérents**.
 
-## Réforme de la hiérarchie
+### Réforme de la hiérarchie
 
 Le **28 avril**, à l'occasion du quatorzième anniversaire, plusieurs réformes importantes sont présentées.
 
@@ -1162,11 +1162,11 @@ L'objectif affiché est de favoriser l'activité et de permettre à de nouveaux 
 
 En août, le système des associés est également réformé.
 
-## Arrivée de Jagger.Jack
+### Arrivée de Jagger.Jack
 
 Le **16 septembre**, **Jagger.Jack**, longtemps lié à la Bjork et adversaire de la MH, rejoint la Mafia-Habbo au grade de Capo.
 
-## La Bataille Finale
+### La Bataille Finale
 
 Le **3 novembre 2019**, la Mafia-Habbo publie l'un des communiqués les plus importants de son histoire :
 
@@ -1176,11 +1176,11 @@ La famille propose sa propre lecture historique du RPK.
 
 Elle distingue notamment :
 
-### Première phase — 2005–2006
+#### Première phase — 2005–2006
 
 Une période de forte hégémonie de la Mafia-Habbo, durant laquelle elle absorbe plusieurs organisations naissantes.
 
-### Deuxième phase — 2006–2019
+#### Deuxième phase — 2006–2019
 
 Une longue période d'affrontement entre grandes familles rivales.
 
@@ -1199,7 +1199,7 @@ Le communiqué revendique :
 - plusieurs centaines de membres ayant participé à l'organisation ;
 - une continuité de près de quinze ans.
 
-## L'Hôtel entier devient une cible
+### L'Hôtel entier devient une cible
 
 La conclusion de la Bataille Finale modifie profondément les règles traditionnelles du saccage.
 
@@ -1220,7 +1220,7 @@ Le **29 décembre**, le badge civil dépasse **8 000 adhérents**.
 
 ---
 
-# 2020 — Dernière succession
+## 2020 — Dernière succession
 
 Le **1er janvier**, la Mafia-Habbo entre dans sa quinzième année d'activité.
 
@@ -1228,7 +1228,7 @@ Le **28 janvier**, le forum franchit le cap des **300 000 messages**.
 
 Le **9 février**, Lomdre devient Affranchi.
 
-## Cérémonie de mars
+### Cérémonie de mars
 
 Le **15 mars**, une grande cérémonie est organisée dans une nouvelle salle prévue à cet effet.
 
@@ -1239,7 +1239,7 @@ Le Parrain Redrem et son Bras-Droit Gualtiero annoncent plusieurs promotions :
 
 Les archives décrivent un appartement complet pendant environ une heure et demie, suivi d'un after au Divino.
 
-## Quinzième anniversaire et succession
+### Quinzième anniversaire et succession
 
 Le **19 avril 2020**, la Mafia-Habbo célèbre son **15e anniversaire**.
 
@@ -1253,7 +1253,7 @@ Gualtiero choisit ensuite **Emestris** comme Bras-Droit.
 
 Les archives décrivent une soirée ayant réuni plus de 70 personnes pendant près de trois heures.
 
-## Retour du grade de Crapule
+### Retour du grade de Crapule
 
 Le **3 mai**, Gualtiero annonce le retour du grade de **Crapule**.
 
@@ -1276,7 +1276,7 @@ Le **10 mai**, le badge civil atteint **9 000 adhérents**.
 
 ---
 
-# 2021 — La fermeture
+## 2021 — La fermeture
 
 Au début de 2021, la Mafia-Habbo approche de sa seizième année d'existence.
 
@@ -1284,7 +1284,7 @@ Le RPK traditionnel qui avait structuré une grande partie de son histoire a cep
 
 Les grandes familles rivales ont fermé et la fréquentation générale de Habbo est devenue très inférieure à celle des grandes années du jeu.
 
-## 18 février — Une épopée inoubliable
+### 18 février — Une épopée inoubliable
 
 Le **18 février 2021**, la Mafia-Habbo publie son dernier grand communiqué :
 
@@ -1310,7 +1310,7 @@ Après **15 ans, 10 mois et 3 jours** d'existence, la Mafia-Habbo cesse officiel
 
 ---
 
-# Après la Mafia-Habbo
+## Après la Mafia-Habbo
 
 Les infrastructures numériques de la famille ne disparaissent pas immédiatement.
 
@@ -1328,41 +1328,41 @@ La Mafia-Habbo historique est donc considérée comme ayant définitivement ferm
 
 ---
 
-# Les grandes périodes de l'histoire de la Mafia-Habbo
+## Les grandes périodes de l'histoire de la Mafia-Habbo
 
 Pour faciliter la lecture, son histoire peut être résumée en plusieurs grandes périodes.
 
-## 2005–2006 — Fondation et premières innovations
+### 2005–2006 — Fondation et premières innovations
 
 Création de la famille, premières règles, hiérarchie, saccages, forum, Grand Hall et premières familles internes.
 
-## 2006–2009 — Apparition d'un véritable RPK concurrentiel
+### 2006–2009 — Apparition d'un véritable RPK concurrentiel
 
 Séparation de la U$A et de la HT, multiplication des organisations rivales, alliances, guerres et premières grandes crises internes.
 
-## 2009–2013 — Institutionnalisation
+### 2009–2013 — Institutionnalisation
 
 Nouveau forum, développement du RP, grandes Vendettas, nouveaux lieux emblématiques et succession d'une nouvelle génération de dirigeants.
 
-## 2013–2016 — Réformes et crises de gouvernance
+### 2013–2016 — Réformes et crises de gouvernance
 
 Règne de Valtieri, dissolution des Aînés, développement de la Kompany et passage progressif vers une nouvelle génération.
 
-## 2016–2019 — Dernière grande période d'activité
+### 2016–2019 — Dernière grande période d'activité
 
 Règnes de Capablanca puis Redrem, développement des événements communautaires, destruction ou disparition des derniers grands adversaires historiques.
 
-## 2019–2021 — Bataille Finale
+### 2019–2021 — Bataille Finale
 
 La MH considère avoir remporté la guerre inter-mafieuse, étend les saccages à l'ensemble de Habbo et tente de faire évoluer son modèle dans un hôtel beaucoup moins fréquenté.
 
-## 18 février 2021 — Fin
+### 18 février 2021 — Fin
 
 Fermeture volontaire de la Mafia-Habbo après près de seize années d'activité.
 
 ---
 
-# Pour aller plus loin
+## Pour aller plus loin
 
 - [Hiérarchie et fonctionnement](hierarchie.md)
 - [Les Parrains de la Mafia-Habbo](parrains.md)
