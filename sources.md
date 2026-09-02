@@ -231,6 +231,10 @@ Il permet notamment de retrouver :
 
 [Consulter Hommage aux Anciens](https://mafiahabbo.superforum.fr/t15694-hommage-aux-anciens)
 
+Une version structurée et illustrée de ce document est conservée sur une page dédiée :
+
+[Les Parrains de la Mafia-Habbo — Hommage aux Anciens](parrains.md)
+
 ---
 
 ### Une source rétrospective et souvent RP
@@ -651,6 +655,7 @@ Elles sont examinées avant intégration afin de conserver :
 
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Hiérarchie et fonctionnement](hierarchie.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Saccages et Vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
