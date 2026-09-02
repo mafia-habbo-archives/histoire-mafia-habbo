@@ -61,6 +61,7 @@ Les éléments fictifs concernant les personnages — identités RP, crimes, ass
 - [Familles liées à la Mafia-Habbo](familles.md) — Familles K, U$A, HT, Vitti, Hust et Valtieri
 - [Grands événements](evenements.md) — principaux tournants de l'histoire de la MH
 - [Sources et méthodologie](sources.md) — archives utilisées et méthode documentaire
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 ## Contributions
 
