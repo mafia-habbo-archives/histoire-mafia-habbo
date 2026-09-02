@@ -747,6 +747,7 @@ Ils doivent être distingués des événements affectant réellement l'organisat
 
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Hiérarchie de la Mafia-Habbo](hierarchie.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Saccages et Vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Sources et archives](sources.md)
