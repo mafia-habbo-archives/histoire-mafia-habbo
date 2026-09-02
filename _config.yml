@@ -2,6 +2,7 @@ title: "Archives de la Mafia-Habbo"
 description: "Histoire et archives de la Mafia-Habbo et du RPK francophone, de 2005 à 2021."
 
 lang: "fr-FR"
+locale: "fr_FR"
 
 theme: jekyll-theme-minimal
 
@@ -11,5 +12,13 @@ baseurl: "/histoire-mafia-habbo"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: "/assets/social-card.png"
+        alt: "Archives de la Mafia-Habbo — Histoire et archives du RPK francophone, de 2005 à 2021"
 
 show_downloads: false
