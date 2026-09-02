@@ -1365,6 +1365,7 @@ Fermeture volontaire de la Mafia-Habbo après près de seize années d'activité
 # Pour aller plus loin
 
 - [Hiérarchie et fonctionnement](hierarchie.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Saccages et vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
