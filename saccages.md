@@ -1,17 +1,19 @@
 ---
-title: Saccages et Vendettas de la Mafia-Habbo
-description: Histoire et fonctionnement des saccages, sigles, tailles, Vendettas et règles anti-triche de la Mafia-Habbo.
+title: "Saccages et Vendettas de la Mafia-Habbo"
+description: "Histoire et fonctionnement des saccages de la Mafia-Habbo : sigles MH, infiltrations, tailles, règles de validation, Vendettas et lutte contre les faux saccages."
 ---
 
 # Saccages et Vendettas de la Mafia-Habbo
 
-Le **saccage** constitue l'une des activités les plus emblématiques de la Mafia-Habbo et, plus largement, du **RPK**.
+Le **saccage** constitue l'une des activités les plus emblématiques de la Mafia-Habbo et, plus largement, du **RPK**, ou *Role Play Krapule*.
 
-Son principe est simple : parvenir à obtenir des droits légitimes dans l'appartement d'une organisation adverse, puis utiliser ces droits pour déplacer son mobilier et matérialiser la prise de contrôle du lieu.
+Son principe est simple : parvenir à obtenir des droits légitimes dans l'appartement d'une organisation adverse, puis utiliser ces droits pour déplacer son mobilier et matérialiser symboliquement la prise de contrôle du lieu.
 
 Dans les archives de la Mafia-Habbo, le saccage est présenté comme une invention de l'organisation remontant à **2005**.
 
-Avec le temps, cette pratique est devenue suffisamment structurée pour disposer de :
+Cette paternité constitue une **revendication historique de la Mafia-Habbo**, les sources utilisées par cette archive provenant exclusivement de ses forums officiels.
+
+Avec le temps, cette pratique devient suffisamment structurée pour disposer de :
 
 - règles précises ;
 - critères de validation ;
@@ -21,9 +23,28 @@ Avec le temps, cette pratique est devenue suffisamment structurée pour disposer
 - règles contre la fraude ;
 - compétitions internes appelées **Vendettas**.
 
+Pour replacer le saccage dans l'histoire générale de l'organisation :
+
+[Histoire de la Mafia-Habbo](histoire.md)
+
 ---
 
-# Origine du saccage
+## Repères essentiels
+
+- **Apparition revendiquée :** 2005
+- **Organisation :** Mafia-Habbo
+- **Univers :** RPK — Role Play Krapule
+- **Principe :** obtenir des droits chez une cible puis déplacer son mobilier
+- **Signature caractéristique :** sigle MH réalisé avec les meubles
+- **Principales catégories :** [P], [M] et [G]
+- **Compétitions internes :** Vendettas
+- **Preuves :** captures avant et après saccage
+- **Règles anti-triche :** faux saccages interdits
+- **Évolution majeure :** extension des cibles à l'ensemble de Habbo en novembre 2019
+
+---
+
+## Origine du saccage
 
 Les archives de la Mafia-Habbo situent la création du saccage durant les premières semaines d'existence de la famille, en **2005**.
 
@@ -33,15 +54,17 @@ Le principe repose sur une particularité du jeu : un propriétaire d'appartemen
 
 Le mafieux cherche donc à intégrer une organisation adverse, à gagner suffisamment de confiance pour recevoir ces droits, puis à les utiliser contre elle.
 
-La Mafia-Habbo revendiquera par la suite la paternité du saccage parmi les principales innovations qu'elle estime avoir apportées au RPK.
+La Mafia-Habbo revendiquera par la suite la **paternité du saccage** parmi les principales innovations qu'elle estime avoir apportées au RPK.
+
+Cette affirmation est conservée ici comme une revendication historique de l'organisation.
 
 ---
 
-# Le principe général
+## Le principe général
 
 Un saccage repose traditionnellement sur plusieurs étapes.
 
-## 1. Trouver une cible
+### 1. Trouver une cible
 
 Le joueur identifie une organisation susceptible d'être saccagée.
 
@@ -54,9 +77,7 @@ Pendant la majeure partie de l'histoire du RPK, les cibles sont principalement :
 
 Le choix d'une cible dépend également des règles en vigueur à l'époque.
 
----
-
-## 2. Intégrer l'organisation
+### 2. Intégrer l'organisation
 
 Le futur saccageur doit obtenir les droits nécessaires sans utiliser de moyen frauduleux extérieur au jeu.
 
@@ -75,9 +96,7 @@ En **2010**, les archives racontent par exemple le retour de **Valtieri** et **M
 
 Leur retour à la Mafia-Habbo est marqué par le saccage de la **Cicero Crime Family**.
 
----
-
-## 3. Obtenir les droits
+### 3. Obtenir les droits
 
 Pour pouvoir déplacer le mobilier, le joueur doit être accrédité dans l'appartement.
 
@@ -87,15 +106,15 @@ La réussite ne consiste pas uniquement à déplacer des meubles : une partie de
 
 ---
 
-# Le sigle MH
+## Le sigle MH
 
-L'une des innovations les plus importantes du système est le **sigle**.
+L'une des pratiques les plus caractéristiques du système est le **sigle**.
 
 À partir de **décembre 2005**, la Mafia-Habbo commence à organiser les meubles de façon à faire apparaître les lettres :
 
 **M H**
 
-Le sigle permet d'identifier immédiatement l'organisation responsable du saccage.
+Le sigle permet d'identifier immédiatement l'organisation revendiquant le saccage.
 
 Il devient progressivement la signature visuelle de la Mafia-Habbo.
 
@@ -116,7 +135,7 @@ Le sigle constitue donc à la fois :
 
 ---
 
-# Réalisation d'un saccage
+## Réalisation d'un saccage
 
 Dans les règles historiques de la Mafia-Habbo, la qualité de la réalisation compte autant que le simple fait d'avoir obtenu les droits.
 
@@ -136,9 +155,9 @@ Le résultat doit au contraire être suffisamment propre pour être présenté c
 
 ---
 
-# Les captures d'écran
+## Les captures d'écran
 
-La preuve est essentielle.
+La preuve est essentielle dans le système de validation des saccages.
 
 Un saccage doit traditionnellement être accompagné de captures permettant de vérifier :
 
@@ -151,9 +170,11 @@ Un saccage doit traditionnellement être accompagné de captures permettant de v
 
 Les captures permettent aux hauts-gradés de vérifier la validité du saccage avant de l'accepter.
 
----
+Le rôle de ces responsables dans la validation s'inscrit dans le fonctionnement général de la :
 
-## La capture avant saccage
+[Hiérarchie de la Mafia-Habbo](hierarchie.md)
+
+### La capture avant saccage
 
 Avant de déplacer les meubles, le joueur doit conserver une preuve de l'état initial de l'appartement.
 
@@ -169,9 +190,7 @@ Lorsqu'un post-it est présent, il peut également servir de preuve supplémenta
 
 L'objectif est d'empêcher qu'un joueur présente comme saccage une salle vide ou un appartement qui n'appartient pas réellement à une organisation.
 
----
-
-## La capture après saccage
+### La capture après saccage
 
 La capture finale constitue la principale preuve de l'opération.
 
@@ -188,7 +207,7 @@ Le résultat doit permettre aux responsables du forum de comprendre immédiateme
 
 ---
 
-# Les post-it
+## Les post-it
 
 Les **post-it** ont longtemps joué un rôle important dans la preuve et la mise en scène des saccages.
 
@@ -202,7 +221,7 @@ Lors de la Vendetta de 2010, l'absence d'un point final sur le post-it figure pa
 
 ---
 
-# Activité du propriétaire
+## Activité du propriétaire
 
 Pour être considéré comme valide, un saccage doit porter sur une organisation encore suffisamment active.
 
@@ -212,7 +231,7 @@ L'objectif est d'éviter que les membres accumulent artificiellement des saccage
 
 ---
 
-# Le classement des saccages
+## Le classement des saccages
 
 Tous les saccages n'ont pas la même importance.
 
@@ -226,9 +245,7 @@ Pendant une longue période, les principales catégories sont notamment :
 
 L'évaluation dépend de plusieurs critères et les règles ont pu évoluer avec le temps.
 
----
-
-## Petit saccage — [P]
+### Petit saccage — [P]
 
 Le petit saccage concerne généralement une organisation de faible importance.
 
@@ -249,9 +266,7 @@ Ils permettent notamment aux Recrues de se familiariser avec :
 - les règles de validation ;
 - la réalisation du sigle.
 
----
-
-## Saccage moyen — [M]
+### Saccage moyen — [M]
 
 Le saccage moyen correspond à une cible plus développée.
 
@@ -265,9 +280,7 @@ Les critères historiques peuvent notamment prendre en compte :
 
 Un saccage moyen représente donc un résultat plus significatif qu'un simple petit saccage.
 
----
-
-## Grand saccage — [G]
+### Grand saccage — [G]
 
 Le grand saccage concerne une organisation importante.
 
@@ -284,7 +297,7 @@ Les annexes appartenant à une grande organisation peuvent également être éva
 
 ---
 
-# Les grands coups
+## Les grands coups
 
 Certains saccages dépassent la simple classification P, M ou G.
 
@@ -315,9 +328,13 @@ Parmi les organisations saccagées par la Mafia-Habbo au fil de son histoire fig
 
 Le forum historique conserve encore de nombreux sujets relatifs à ces opérations.
 
+Plusieurs de ces organisations sont également présentées dans :
+
+[Familles liées à la Mafia-Habbo](familles.md)
+
 ---
 
-# L'usurpation
+## L'usurpation
 
 L'**usurpation** constitue l'une des méthodes utilisées dans certaines opérations de saccage.
 
@@ -333,7 +350,7 @@ Elle rouvre cependant quelque temps plus tard et subit un second saccage le **7 
 
 ---
 
-# Les longues infiltrations
+## Les longues infiltrations
 
 L'imaginaire du saccage est souvent associé à de longues infiltrations au sein des organisations ennemies.
 
@@ -351,7 +368,7 @@ Certains grands coups résultent plutôt d'une opportunité, d'une trahison ou d
 
 ---
 
-# La dalle magique
+## La dalle magique
 
 Avec l'évolution de Habbo apparaissent des outils permettant de déplacer ou empiler plus facilement le mobilier.
 
@@ -361,13 +378,13 @@ Son usage reste cependant encadré.
 
 La tradition privilégie généralement le saccage réalisé manuellement.
 
-La dalle magique est principalement tolérée dans certaines situations où elle facilite l'empilement du mobilier, notamment pour certains saccages de plus grande taille.
+La dalle magique est principalement tolérée dans certaines situations où **elle** facilite l'empilement du mobilier, notamment pour certains saccages de plus grande taille.
 
 Cette limitation vise à préserver la dimension technique et traditionnelle du saccage.
 
 ---
 
-# Les faux saccages
+## Les faux saccages
 
 La Mafia-Habbo interdit explicitement les **faux saccages**.
 
@@ -375,9 +392,7 @@ Des règles publiées sur le forum cherchent à définir différentes formes de 
 
 Un membre ne peut pas fabriquer artificiellement un saccage uniquement pour améliorer son activité, gagner une compétition ou accélérer sa progression.
 
----
-
-## Auto-saccage
+### Auto-saccage
 
 Un joueur ne peut pas saccager :
 
@@ -387,17 +402,13 @@ Un joueur ne peut pas saccager :
 
 Une telle opération ne présente aucune infiltration réelle.
 
----
-
-## Saccage de complaisance
+### Saccage de complaisance
 
 Il est interdit de demander à un ami ou à une connaissance de créer ou laisser saccager une organisation uniquement pour fournir un saccage au membre.
 
 Le saccage doit résulter d'une véritable situation de jeu.
 
----
-
-## Falsification de capture
+### Falsification de capture
 
 Modifier une capture afin de faire croire à un saccage qui n'a pas eu lieu constitue une fraude.
 
@@ -407,31 +418,23 @@ Cela comprend notamment :
 - l'altération d'informations ;
 - l'utilisation trompeuse d'une capture ancienne.
 
----
-
-## Surévaluation
+### Surévaluation
 
 Un joueur ne peut pas ajouter volontairement son propre mobilier à une salle avant le saccage afin de faire croire que la cible est plus riche qu'elle ne l'est réellement.
 
 Cette pratique pourrait artificiellement transformer un petit saccage en saccage de catégorie supérieure.
 
----
-
-## Salles à droits automatiques
+### Salles à droits automatiques
 
 Un saccage n'est normalement pas valable lorsqu'il suffit de rejoindre un groupe ou d'effectuer une action automatique pour obtenir les droits.
 
 Le principe du saccage repose sur la **confiance accordée par la cible**, non sur un système distribuant automatiquement les accréditations.
 
----
-
-## Faux partenariats
+### Faux partenariats
 
 Une alliance ou un partenariat organisé uniquement dans le but de faciliter ensuite un saccage peut également être considéré comme frauduleux.
 
----
-
-## Achat d'un saccage
+### Achat d'un saccage
 
 Il est interdit de payer un joueur en :
 
@@ -443,11 +446,11 @@ afin qu'il accorde volontairement ses droits pour permettre un saccage.
 
 ---
 
-# Sanctions contre la fraude
+## Sanctions contre la fraude
 
 Les faux saccages sont considérés comme une faute grave.
 
-Dans les règles publiées en 2014, la sanction prévue est une **rétrogradation immédiate**.
+Dans les règles publiées en **2014**, la sanction prévue est une **rétrogradation immédiate**.
 
 Selon le grade :
 
@@ -463,7 +466,7 @@ Lors de la Vendetta de 2010, un faux saccage ou un manque grave de fair-play peu
 
 ---
 
-# Les Vendettas
+## Les Vendettas
 
 Une **Vendetta** est une compétition interne centrée principalement sur les saccages.
 
@@ -485,13 +488,15 @@ Les archives précisent cependant que la compétition ne doit pas faire dispara�
 
 Les groupes ne doivent pas nuire aux autres équipes uniquement pour gagner la compétition.
 
-Plusieurs Vendettas organisées par la Mafia-Habbo sont documentées dans les archives du forum. La Vendetta d'été 2010 est utilisée ici comme exemple détaillé pour illustrer leur fonctionnement.
+Plusieurs Vendettas organisées par la Mafia-Habbo sont documentées dans les archives du forum.
+
+La **Vendetta d'été 2010** est utilisée ci-dessous comme exemple détaillé de leur fonctionnement.
 
 ---
 
-# La Vendetta d'été 2010
+## La Vendetta d'été 2010
 
-À titre d'exemple, la Vendetta d'été 2010 se déroule du **23 au 30 août 2010**. Ses règles détaillées sont reprises ci-dessous.
+La Vendetta d'été 2010 se déroule du **23 au 30 août 2010**.
 
 Les membres sont répartis en quatre groupes.
 
@@ -515,9 +520,7 @@ Les groupes peuvent évoluer avec l'arrivée de nouveaux participants.
 
 Les hauts-gradés observent l'activité et la motivation des membres.
 
----
-
-# Récompenses
+### Récompenses
 
 Les meilleurs saccageurs de la Vendetta peuvent recevoir **l'Éclair**.
 
@@ -532,9 +535,7 @@ La Vendetta constitue donc à la fois :
 - un événement communautaire ;
 - une manière d'inscrire certains joueurs dans l'histoire interne de la famille.
 
----
-
-# Système de points de 2010
+### Système de points de 2010
 
 Pour la Vendetta d'été 2010, les saccages sont valorisés comme suit :
 
@@ -551,9 +552,7 @@ Les Affranchis calculent les points accordés.
 
 Les Crapules viennent ensuite confirmer le résultat final.
 
----
-
-# Malus de la Vendetta
+### Malus de la Vendetta
 
 La compétition prévoit également des pénalités.
 
@@ -574,11 +573,9 @@ La tricherie peut entraîner :
 - une rétrogradation du membre responsable ;
 - la disqualification de son groupe.
 
----
+### Résultats de la Vendetta d'été 2010
 
-# Résultats de la Vendetta d'été 2010
-
-Le bilan de la compétition du 23 au 30 août donne :
+Le bilan de la compétition du **23 au 30 août** donne :
 
 - Groupe 1 : **21 saccages**
 - Groupe 2 : **25 saccages**
@@ -603,7 +600,11 @@ Ce chiffre ne correspond donc pas nécessairement au seul événement organisé 
 
 ---
 
-# Vendetta hivernale 2010
+## Autres Vendettas documentées
+
+Les archives conservent plusieurs autres compétitions de ce type.
+
+### Vendetta hivernale 2010
 
 Une nouvelle Vendetta est organisée du **19 au 24 décembre 2010**.
 
@@ -615,9 +616,7 @@ sur cette période.
 
 Ce chiffre illustre l'intensité de l'activité de saccage durant certaines périodes de l'histoire de la famille.
 
----
-
-# Vendetta d'été 2011
+### Vendetta d'été 2011
 
 Une nouvelle Vendetta estivale est organisée en **2011**.
 
@@ -627,9 +626,7 @@ Les archives annoncent un résultat de :
 
 La répétition de ces événements montre que la Vendetta devient alors une véritable tradition interne de la Mafia-Habbo.
 
----
-
-# Vendetta d'hiver 2013–2014
+### Vendetta d'hiver 2013–2014
 
 Une autre importante Vendetta est lancée à la fin de l'année **2013**.
 
@@ -641,7 +638,7 @@ Le bilan annoncé est de :
 
 ---
 
-# Saccages et progression hiérarchique
+## Saccages et progression hiérarchique
 
 Le saccage joue historiquement un rôle important dans la progression des jeunes membres.
 
@@ -663,9 +660,13 @@ Un exemple historique apparaît en **2011**.
 
 Il est promu **Truand le jour même**.
 
+Pour comprendre la place de ces grades :
+
+[Hiérarchie de la Mafia-Habbo](hierarchie.md)
+
 ---
 
-# Le saccage comme arme politique
+## Le saccage comme arme politique
 
 Au-delà de l'activité individuelle des membres, le saccage est également une arme dans les rapports de force entre organisations.
 
@@ -680,53 +681,53 @@ Un saccage important peut servir à :
 
 Certaines fermetures d'organisations interviennent peu après des saccages particulièrement importants.
 
-Il est cependant difficile de démontrer qu'un saccage constitue toujours, à lui seul, la cause d'une fermeture.
+Il est cependant difficile d'établir, à partir des seules archives officielles de la Mafia-Habbo, qu'un saccage constitue toujours à lui seul la cause d'une fermeture.
 
-Les archives de la Mafia-Habbo étant des sources internes et partisanes, les formulations telles que **« destruction »**, **« anéantissement »** ou **« élimination »** doivent être replacées dans ce contexte.
+Les archives de la Mafia-Habbo étant des sources internes, les formulations telles que **« destruction »**, **« anéantissement »** ou **« élimination »** doivent être replacées dans le contexte de leur publication.
 
 ---
 
-# Quelques saccages historiques
+## Quelques saccages historiques
 
 Au cours de son histoire, la Mafia-Habbo met particulièrement en avant plusieurs opérations.
 
-## Gen13 — 2005
+### Gen13 — 2005
 
 Le **21 décembre 2005**, YokiPeACh saccage le Gen13 après avoir rejoint la Mafia-Habbo quelques semaines auparavant.
 
 Cette opération marque également la fin de l'alliance entre les deux groupes.
 
-## U$A-Family — 2006
+### U$A-Family — 2006
 
 Le **16 août 2006**, quelques mois après l'exclusion de la U$A de la Mafia-Habbo, cette ancienne famille interne est saccagée.
 
 L'opération intervient deux jours avant l'alliance officielle entre la Mafia-Habbo et la Bjork-Family.
 
-## Cicero Crime Family — 2010
+### Cicero Crime Family — 2010
 
 En juin 2010, Valtieri et Moltisanti concluent une longue période d'infiltration par le saccage de la **Cicero Crime Family**.
 
-## Famille Vittoria — 2010
+### Famille Vittoria — 2010
 
 La Vittoria est saccagée une première fois le **13 août 2010** à la suite d'une usurpation préparée par Sayc.
 
 Après avoir rouvert, elle est saccagée une seconde fois le **7 septembre**, cette fois par Kronicles.
 
-## Cosa Nostra et Vizzini — 2011
+### Cosa Nostra et Vizzini — 2011
 
 Le **6 avril 2011**, Valtieri réalise deux sigles importants le même jour contre la **Cosa Nostra** et la **Vizzini**.
 
-## The-Outfit — 2013
+### The-Outfit — 2013
 
 En septembre 2013, la Mafia-Habbo revendique le saccage intégral de **The-Outfit**.
 
 L'organisation ferme quelques jours plus tard.
 
-## Winchester's — 2017
+### Winchester's — 2017
 
 En juillet 2017, la Mafia-Habbo revendique le saccage complet de la **Winchester's**.
 
-## Bjork-Family — 2017 et 2018
+### Bjork-Family — 2017 et 2018
 
 La Bjork-Family, l'une des rivales historiques de la Mafia-Habbo, fait l'objet de plusieurs opérations au cours de son histoire.
 
@@ -736,9 +737,13 @@ En novembre 2018, **Confringo** réalise un nouveau saccage presque intégral de
 
 La Bjork ferme ensuite ses portes.
 
+Les relations entre ces différentes organisations sont également présentées dans :
+
+[Familles liées à la Mafia-Habbo](familles.md)
+
 ---
 
-# L'évolution des cibles
+## L'évolution des cibles
 
 Pendant la majeure partie de l'histoire de la Mafia-Habbo, le saccage est limité aux organisations participant au jeu mafieux.
 
@@ -750,13 +755,15 @@ Cette règle change à la fin de l'année **2019**.
 
 ---
 
-# La Bataille Finale de 2019
+## La Bataille Finale de 2019
 
 Le **3 novembre 2019**, la Mafia-Habbo publie le communiqué intitulé **Bataille Finale**.
 
 Elle considère alors que les principales familles rivales historiques ont disparu et qu'aucune organisation traditionnelle encore active ne constitue un adversaire comparable.
 
-La Mafia-Habbo modifie donc ses règles.
+Cette lecture constitue le **point de vue exprimé par la Mafia-Habbo dans son propre communiqué**.
+
+La Mafia-Habbo modifie alors ses règles.
 
 **L'ensemble de l'Hôtel devient désormais une cible potentielle.**
 
@@ -769,9 +776,13 @@ Certaines catégories restent cependant exclues, notamment les salles consacrée
 
 Cette réforme constitue une importante rupture avec la Mafia-Attitude historique, qui prévoyait de laisser les joueurs extérieurs au RPK en dehors des affrontements mafieux.
 
+La Bataille Finale est replacée dans son contexte sur la page :
+
+[Grands événements de la Mafia-Habbo](evenements.md)
+
 ---
 
-# L'ampleur des archives
+## L'ampleur des archives
 
 Le forum de la Mafia-Habbo conserve un très grand nombre de sujets consacrés aux saccages.
 
@@ -790,17 +801,21 @@ Pendant une grande partie de son histoire, il constitue l'un des principaux mote
 
 ---
 
-# Combien de saccages la Mafia-Habbo a-t-elle réalisés ?
+## Combien de saccages la Mafia-Habbo a-t-elle réalisés ?
 
-Il est difficile d'établir aujourd'hui un décompte parfaitement exhaustif sur l'ensemble de la période 2005–2021.
+Il est difficile d'établir aujourd'hui un décompte parfaitement exhaustif sur l'ensemble de la période **2005–2021**.
 
-Les archives permettent néanmoins d'établir que la Mafia-Habbo a réalisé plusieurs milliers de saccages.
+Les archives permettent néanmoins d'établir que la Mafia-Habbo a publié plusieurs milliers de saccages.
 
-Sur le forum utilisé à partir de 2009, le décompte des sujets consacrés aux saccages de petite ampleur permet à lui seul d'en identifier **au moins 9 000**. À ceux-ci s'ajoutent les saccages de plus grande importance, qui faisaient l'objet de publications distinctes dans le **Tableau de chasse**.
+Sur le forum utilisé à partir de 2009, le décompte des sujets consacrés aux saccages de petite ampleur permet à lui seul d'en identifier **au moins 9 000**.
+
+À ceux-ci s'ajoutent les saccages de plus grande importance, qui faisaient l'objet de publications distinctes dans le **Tableau de chasse**.
 
 La rubrique générale **« Activités mafieuses »** de ce forum compte plus de **10 000 sujets**, ce qui donne une indication supplémentaire de l'ampleur de l'activité, même si tous ces sujets ne correspondent pas nécessairement à un saccage.
 
-L'ancien forum de la Mafia-Habbo, utilisé principalement entre 2005 et 2009, conserve quant à lui plus de **5 800 sujets** dans sa propre rubrique **« Activités mafieuses »**. Là encore, ce chiffre ne peut pas être assimilé automatiquement à un nombre exact de saccages, mais il témoigne d'une activité déjà considérable durant les premières années de l'organisation.
+L'ancien forum de la Mafia-Habbo, utilisé principalement entre 2005 et 2009, conserve quant à lui plus de **5 800 sujets** dans sa propre rubrique **« Activités mafieuses »**.
+
+Là encore, ce chiffre ne peut pas être assimilé automatiquement à un nombre exact de saccages, mais il témoigne d'une activité déjà considérable durant les premières années de l'organisation.
 
 Dans son communiqué de la **Bataille Finale** publié en 2019, la Mafia-Habbo revendiquait près de :
 
@@ -808,13 +823,15 @@ Dans son communiqué de la **Bataille Finale** publié en 2019, la Mafia-Habbo r
 
 et estimait que le total réalisé depuis 2005 pouvait être supérieur au double.
 
-Cette estimation était une revendication interne de la Mafia-Habbo et non un décompte indépendant. Elle apparaît néanmoins cohérente avec le volume d'archives encore consultables sur les deux forums.
+Cette dernière estimation constitue une **revendication interne de la Mafia-Habbo** et non un décompte indépendant.
+
+Elle doit donc être distinguée des volumes directement observables dans les rubriques encore accessibles des forums.
 
 ---
 
-# Le saccage dans l'héritage du RPK
+## Le saccage dans l'héritage du RPK
 
-Le saccage est probablement l'un des éléments de gameplay les plus durablement associés à la Mafia-Habbo et au RPK.
+Le saccage est l'un des éléments de gameplay les plus durablement associés à la Mafia-Habbo et au RPK dans les archives de l'organisation.
 
 Il combine plusieurs dimensions :
 
@@ -835,10 +852,36 @@ Le forum transforme ainsi une action temporaire réalisée dans un appartement H
 
 ---
 
-# Voir aussi
+## Sources et interprétation
+
+Cette page repose sur les documents conservés sur les **forums officiels de la Mafia-Habbo**.
+
+Elle utilise notamment :
+
+- les règles consacrées aux saccages ;
+- les sujets de validation ;
+- les publications de Vendettas ;
+- les chronologies historiques ;
+- les communiqués institutionnels ;
+- les rubriques d'archives consacrées aux activités mafieuses.
+
+Les chiffres indiqués doivent être interprétés selon leur nature.
+
+Un nombre directement observable dans une rubrique du forum n'a pas le même statut qu'une estimation ou une revendication publiée par la Mafia-Habbo.
+
+De même, lorsqu'un document qualifie une opération de **« destruction »**, de **« victoire »** ou d'**« anéantissement »**, cette formulation peut relever du point de vue institutionnel ou du vocabulaire du RPK.
+
+Pour une présentation complète de la méthodologie :
+
+[Sources et archives](sources.md)
+
+---
+
+## Voir aussi
 
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Hiérarchie de la Mafia-Habbo](hierarchie.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
 - [Sources et archives](sources.md)
