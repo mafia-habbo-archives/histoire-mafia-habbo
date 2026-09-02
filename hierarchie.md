@@ -1,6 +1,6 @@
 ---
-title: Hiérarchie de la Mafia-Habbo
-description: Présentation des grades, du Grand Conseil et du fonctionnement hiérarchique de la Mafia-Habbo.
+title: "Hiérarchie de la Mafia-Habbo"
+description: "Présentation des grades, du Grand Conseil, des Associés et du fonctionnement hiérarchique de la Mafia-Habbo entre 2005 et 2021."
 ---
 
 # Hiérarchie de la Mafia-Habbo
@@ -9,41 +9,53 @@ La **hiérarchie** constitue l'un des éléments fondamentaux du fonctionnement 
 
 Depuis ses premières années, l'organisation repose sur une progression par grades. Les membres commencent au bas de la hiérarchie et peuvent progressivement accéder à davantage de responsabilités en fonction de leur comportement, de leur activité, de la confiance acquise et de leur implication dans la famille.
 
-La hiérarchie a évolué au cours des seize années d'existence de la Mafia-Habbo. La structure présentée ci-dessous correspond principalement à celle utilisée durant les dernières années de l'organisation.
+La hiérarchie a évolué au cours des seize années d'existence de la Mafia-Habbo.
+
+La structure présentée ci-dessous correspond principalement à celle utilisée durant les dernières années de l'organisation, tout en rappelant les principaux grades et systèmes ayant existé auparavant.
+
+Pour replacer ces évolutions dans leur contexte :
+
+[Histoire de la Mafia-Habbo](histoire.md)
 
 ---
 
-# Vue d'ensemble
+## Vue d'ensemble
 
 La hiérarchie de la Mafia-Habbo peut être divisée en trois grands ensembles :
 
-## Basse hiérarchie
+### Basse hiérarchie
 
 - Recrue
 - Voyou
 - Truand
 
-## Haute hiérarchie
+### Haute hiérarchie
 
 - Affranchi
 - Crapule
 
-## Grand Conseil
+### Grand Conseil
 
 - Capo
 - Consigliere
 - Bras-Droit
 - Parrain
 
-À certaines périodes, d'autres grades ont également existé, notamment **Maestro** et **Tortionnaire**.
+À certaines périodes, d'autres grades ont également existé, notamment **Maestro**, **Tortionnaire** et **Malfaiteur**.
 
 La Mafia-Habbo possédait également plusieurs statuts destinés aux personnes proches de l'organisation sans appartenir nécessairement à sa hiérarchie active.
 
 ---
 
-# La basse hiérarchie
+## La basse hiérarchie
 
-## Recrue
+La **basse hiérarchie** regroupe les membres encore en phase d'apprentissage ou de progression.
+
+Durant les dernières années de la Mafia-Habbo, elle comprend principalement les grades de :
+
+**Recrue → Voyou → Truand**
+
+### Recrue
 
 La **Recrue** est le premier véritable grade d'un membre de la Mafia-Habbo.
 
@@ -56,7 +68,7 @@ Elle doit notamment apprendre :
 - les règles de la Mafia-Habbo ;
 - les quatre lois ;
 - les usages de politesse ;
-- le fonctionnement des saccages ;
+- le fonctionnement des [saccages](saccages.md) ;
 - le fonctionnement du forum ;
 - les pratiques et traditions de la famille.
 
@@ -83,7 +95,7 @@ Cependant, les archives insistent également sur le fait que l'activité seule n
 
 ---
 
-## Voyou
+### Voyou
 
 Le **Voyou** est un membre ayant déjà montré un certain potentiel.
 
@@ -118,7 +130,7 @@ Il doit être capable de réfléchir, de proposer des idées, de conseiller les 
 
 ---
 
-## Truand
+### Truand
 
 Le **Truand** constitue le dernier grade de la basse hiérarchie dans la structure utilisée durant les dernières années de la Mafia-Habbo.
 
@@ -143,9 +155,17 @@ Cette proximité lui permet de se préparer à une éventuelle entrée dans la h
 
 ---
 
-# La haute hiérarchie
+## La haute hiérarchie
 
-## Affranchi
+La **haute hiérarchie** se situe entre la basse hiérarchie et le Grand Conseil.
+
+Dans les dernières années de l'organisation, elle comprend :
+
+**Affranchi → Crapule**
+
+Elle regroupe des membres expérimentés auxquels les dirigeants accordent un niveau de confiance élevé.
+
+### Affranchi
 
 L'**Affranchi** appartient à la haute hiérarchie.
 
@@ -173,7 +193,9 @@ Il peut notamment :
 
 L'accès à ce grade marque une étape importante dans la carrière d'un membre.
 
-## Crapule
+---
+
+### Crapule
 
 La **Crapule** constitue le grade le plus élevé de la haute hiérarchie, juste avant l'entrée au Grand Conseil.
 
@@ -195,9 +217,13 @@ Le grade est temporairement supprimé lors de la réforme hiérarchique de **201
 
 Troy.Dempsey et Eurocrate font notamment partie des membres promus Crapules lors du rétablissement du grade en 2020.
 
+Cette évolution est également replacée dans la chronologie des :
+
+[Grands événements de la Mafia-Habbo](evenements.md)
+
 ---
 
-# Le Grand Conseil
+## Le Grand Conseil
 
 Le **Grand Conseil**, souvent abrégé **GC**, constitue l'organe dirigeant de la Mafia-Habbo.
 
@@ -217,14 +243,9 @@ Sa composition varie selon les époques.
 
 Dans la structure tardive de la Mafia-Habbo, il est composé des grades suivants :
 
-- Capo
-- Consigliere
-- Bras-Droit
-- Parrain
+**Capo → Consigliere → Bras-Droit → Parrain**
 
----
-
-## Capo
+### Capo
 
 Le **Capo** est le premier grade du Grand Conseil.
 
@@ -250,7 +271,7 @@ Le Capo constitue donc à la fois un dirigeant et un responsable opérationnel.
 
 ---
 
-## Consigliere
+### Consigliere
 
 Le **Consigliere** est le conseiller du Parrain et de son Bras-Droit.
 
@@ -275,7 +296,7 @@ Il disparaît puis réapparaît à plusieurs reprises au cours de l'histoire de 
 
 ---
 
-## Bras-Droit
+### Bras-Droit
 
 Le **Bras-Droit** est le numéro deux de la Mafia-Habbo.
 
@@ -297,7 +318,7 @@ De nombreuses successions de l'histoire de la Mafia-Habbo ont effectivement vu u
 
 ---
 
-## Parrain
+### Parrain
 
 Le **Parrain**, également appelé **Don**, est le dirigeant de la Mafia-Habbo.
 
@@ -325,7 +346,7 @@ Pour retrouver les différents dirigeants de la Mafia-Habbo au fil de son histoi
 
 ---
 
-# Les escouades
+## Les escouades
 
 Une importante réforme est mise en place en **2019** sous le règne de Redrem.
 
@@ -345,9 +366,11 @@ Cette organisation vise à améliorer l'encadrement des nouveaux membres et à r
 
 Elle permet également aux jeunes mafieux de disposer d'un interlocuteur régulier plutôt que de dépendre directement de la haute hiérarchie.
 
+La création des escouades fait partie de la réforme hiérarchique mise en place durant les dernières années de la Mafia-Habbo.
+
 ---
 
-# Les Associés et membres externes
+## Les Associés et membres externes
 
 La Mafia-Habbo entretient également des liens avec de nombreux joueurs qui ne font pas partie de sa hiérarchie active.
 
@@ -371,9 +394,11 @@ Des statuts comme **Confident** ont également existé à d'autres périodes.
 
 Ces joueurs peuvent participer à certains événements et conserver des liens avec la famille sans être soumis aux mêmes obligations que les membres actifs.
 
+Les Associés doivent donc être distingués des membres appartenant directement à la hiérarchie de la Mafia-Habbo.
+
 ---
 
-# Les blazes
+## Les blazes
 
 À partir d'un certain niveau de la hiérarchie, certains membres reçoivent un **blaze**.
 
@@ -408,11 +433,45 @@ Parmi les blazes connus figurent notamment :
 
 La remise d'un blaze peut être considérée comme une forme de baptême institutionnel au sein de la famille.
 
+Plusieurs blazes de Parrains sont également conservés dans :
+
+[Les Parrains de la Mafia-Habbo](parrains.md)
+
 ---
 
-# Une hiérarchie qui évolue avec le temps
+## Les grades historiques
 
-Bien que la Mafia-Habbo ait revendiqué une forte continuité institutionnelle, sa hiérarchie n'est pas restée totalement figée entre 2005 et 2021.
+La structure de la Mafia-Habbo ne reste pas identique entre 2005 et 2021.
+
+Plusieurs grades apparaissent, disparaissent ou changent de fonction au cours du temps.
+
+Parmi les principaux grades historiques figurent notamment :
+
+### Maestro
+
+Le grade de **Maestro** apparaît à certaines périodes de l'histoire de la Mafia-Habbo.
+
+Il ne fait pas partie de la structure finale de l'organisation.
+
+### Tortionnaire
+
+Le grade de **Tortionnaire** appartient également à certaines anciennes versions de la hiérarchie.
+
+Il disparaît ensuite de la structure utilisée durant les dernières années.
+
+### Malfaiteur
+
+Le grade de **Malfaiteur** est ajouté beaucoup plus tard dans l'histoire de la Mafia-Habbo.
+
+Il est ensuite supprimé lors de la réforme hiérarchique de **2019**.
+
+Ces grades illustrent les modifications successives apportées à une hiérarchie qui, malgré une forte continuité générale, n'est jamais restée totalement figée.
+
+---
+
+## Une hiérarchie qui évolue avec le temps
+
+Bien que la Mafia-Habbo ait revendiqué une forte continuité institutionnelle, sa hiérarchie n'est pas restée totalement figée entre **2005 et 2021**.
 
 Plusieurs réformes sont intervenues :
 
@@ -426,27 +485,60 @@ Plusieurs réformes sont intervenues :
 - suppression du grade de Crapule en 2019 ;
 - réintroduction de la Crapule en 2020.
 
-Ces évolutions montrent la volonté de la Mafia-Habbo d'adapter son organisation aux différentes générations de joueurs et aux transformations du RPK.
+Ces évolutions montrent la manière dont la Mafia-Habbo adapte son organisation aux différentes générations de joueurs et aux transformations du RPK.
+
+La chronologie détaillée permet de replacer ces changements dans leur contexte :
+
+[Histoire de la Mafia-Habbo](histoire.md)
 
 ---
 
-# Le Grand Conseil et le pouvoir institutionnel
+## Le Grand Conseil et le pouvoir institutionnel
 
 L'importance du Grand Conseil apparaît particulièrement lors de la crise des **Aînés de 2014**.
 
-Le communiqué publié le 5 septembre 2014 réaffirme alors que le Grand Conseil constitue l'organe disposant de l'autorité sur la Mafia-Habbo.
+Le communiqué publié le **5 septembre 2014** réaffirme alors que le Grand Conseil constitue l'organe disposant de l'autorité sur la Mafia-Habbo.
+
+Cette affirmation correspond au **point de vue institutionnel du Grand Conseil de l'époque**.
+
+La crise aboutit notamment à la dissolution du Conseil des Aînés et à une réaffirmation du pouvoir de la direction active.
 
 Cette conception restera centrale durant les dernières années de l'organisation.
 
 Le Parrain reste le dirigeant suprême, mais la direction repose sur un ensemble de responsables chargés de conseiller, superviser et administrer la famille.
 
+La crise des Aînés est présentée plus en détail dans :
+
+[Grands événements de la Mafia-Habbo](evenements.md)
+
 ---
 
-# Voir aussi
+## Sources et interprétation
+
+Cette page repose sur les documents conservés sur les **forums officiels de la Mafia-Habbo**.
+
+La description des grades et de leurs fonctions correspond principalement aux règles, présentations hiérarchiques et archives produites par l'organisation elle-même.
+
+Comme la structure a évolué entre 2005 et 2021, une même fonction peut avoir connu des responsabilités légèrement différentes selon les périodes.
+
+La présentation de cette page cherche donc à distinguer :
+
+- la structure utilisée durant les dernières années ;
+- les grades historiques ;
+- les principales réformes documentées ;
+- le rôle institutionnel attribué au Grand Conseil par la Mafia-Habbo.
+
+Pour une présentation complète des sources utilisées et de la méthodologie de l'archive :
+
+[Sources et archives](sources.md)
+
+---
+
+## Voir aussi
 
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Les Parrains de la Mafia-Habbo](parrains.md)
-- [Saccages et vendettas](saccages.md)
+- [Saccages et Vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
 - [Sources et archives](sources.md)
