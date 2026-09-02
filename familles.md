@@ -603,5 +603,6 @@ Pour plus de détails sur la méthode utilisée :
 - [Saccages et Vendettas](saccages.md)
 - [Grands événements](evenements.md)
 - [Sources et archives](sources.md)
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 **Ad Vitam Æternam.**
