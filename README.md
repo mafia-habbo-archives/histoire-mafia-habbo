@@ -20,6 +20,7 @@ Les témoignages personnels, s'ils sont ajoutés ultérieurement, seront disting
 
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Hiérarchie et fonctionnement](hierarchie.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Saccages et vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
