@@ -1,6 +1,6 @@
 ---
-title: "Les Parrains de la Mafia-Habbo — Hommage aux Anciens"
-description: "Les Parrains et dirigeants historiques de la Mafia-Habbo, d'après le sujet officiel Hommage aux Anciens et les archives du forum."
+title: "Les Parrains de la Mafia-Habbo — Dirigeants historiques (2005–2021)"
+description: "Les Parrains et dirigeants historiques de la Mafia-Habbo de 2005 à 2021, d'après le sujet officiel Hommage aux Anciens et les archives du forum."
 ---
 
 # Les Parrains de la Mafia-Habbo
@@ -13,9 +13,31 @@ Le document original présente, dans l'ordre chronologique de leurs règnes, les
 
 Le sujet original comprend des fiches allant de **Don Krapule** à **Don Redrem**.
 
-Afin de couvrir l'ensemble de l'histoire de la Mafia-Habbo, **Don Gualtiero**, dernier Parrain de l'organisation, est ajouté à leur suite dans le même format à partir d'autres archives officielles du forum.
+Afin de couvrir l'ensemble de l'histoire de la Mafia-Habbo jusqu'à sa fermeture en 2021, **Don Gualtiero**, dernier Parrain de l'organisation, est ajouté à leur suite dans le même format à partir d'autres archives officielles du forum.
 
-Le contenu issu du sujet **Hommage aux Anciens** est conservé dans son **ton d'origine**. La mise en forme a uniquement été adaptée au Markdown afin d'en faciliter la lecture et la conservation.
+Le contenu issu du sujet **Hommage aux Anciens** est conservé dans son **ton d'origine**.
+
+Les formulations, le vocabulaire, les jugements, les éléments de jeu de rôle et l'orthographe des descriptions originales sont donc volontairement préservés. La mise en forme a uniquement été adaptée au Markdown afin d'en faciliter la lecture et la conservation.
+
+Pour replacer les différents règnes dans leur contexte historique :
+
+[Histoire de la Mafia-Habbo](histoire.md)
+
+---
+
+## Repères essentiels
+
+- **Premier fondateur et dirigeant :** Krapule
+- **Création de la Mafia-Habbo :** 15 avril 2005
+- **Dernier Parrain :** Gualtiero
+- **Fermeture de la Mafia-Habbo :** 18 février 2021
+- **Période couverte :** 2005–2021
+- **Source principale :** sujet officiel *Hommage aux Anciens*
+- **Nature du contenu :** histoire de l'organisation, souvenirs internes et biographies RP
+
+La direction de la Mafia-Habbo ne constitue pas toujours une succession parfaitement linéaire.
+
+Durant certaines périodes, plusieurs familles internes possèdent simultanément leur propre Don. Certains dirigeants reviennent également au pouvoir après une interruption et plusieurs intérims sont documentés.
 
 ---
 
@@ -43,6 +65,8 @@ font partie de l'univers **RP** lorsqu'elles apparaissent dans ces biographies.
 
 Elles ne doivent pas être interprétées comme des informations concernant la vie réelle des joueurs.
 
+Les pseudonymes Habbo et les fonctions exercées dans la Mafia-Habbo constituent en revanche des éléments historiques de l'organisation lorsqu'ils sont documentés dans ses archives.
+
 ---
 
 ## Conservation des illustrations
@@ -59,29 +83,37 @@ Aucune reconstitution ou image artificielle n'est utilisée pour les remplacer.
 
 ## Les dirigeants présentés
 
-- Don Krapule
-- Don Madfreddy
-- Don Vitti
-- Don Leto
-- Don Kidvirus
-- Dame Kallysto
-- Don Giorgo
-- Dame YokiPeACh
-- Don Luftkrawerk
-- Don Hust
-- Don Marccelo
-- Don Diabloelo2
-- Don Medzo
-- Don Sayc
-- Don Alshak
-- Don Alessio
-- Don Zero
-- Don Valtieri
-- Don Affondo
-- Don Gemeni
-- Don Capablanca
-- Don Redrem
-- Don Gualtiero
+| Dirigeant | Période indiquée |
+|---|---|
+| Don Krapule | 2005 |
+| Don Madfreddy | 2005 |
+| Don Vitti | 2005–2006 |
+| Don Leto | 2006 |
+| Don Kidvirus | 2006–2007 |
+| Dame Kallysto | 2006 |
+| Don Giorgo | 2006 et 2008 |
+| Dame YokiPeACh | 2007 |
+| Don Luftkrawerk | 2007 |
+| Don Hust | 2009 |
+| Don Marccelo | 2008–2009 |
+| Don Diabloelo2 | 2009–2010 |
+| Don Medzo | 2010 |
+| Don Sayc | 2010–2011 puis 2012 |
+| Don Alshak | 2011 |
+| Don Alessio | 2012 |
+| Don Zero | 2012–2013 |
+| Don Valtieri | 2013–2014 |
+| Don Affondo | 2013–2014, intérim |
+| Don Gemeni | 2015–2016 |
+| Don Capablanca | 2016–2018 |
+| Don Redrem | 2018–2020 |
+| Don Gualtiero | 2020–2021 |
+
+Cette chronologie doit être lue en tenant compte des changements de familles internes, des retours au pouvoir et des intérims détaillés plus bas.
+
+Pour comprendre la fonction de Parrain et le rôle du Grand Conseil :
+
+[Hiérarchie de la Mafia-Habbo](hierarchie.md)
 
 ---
 
@@ -674,7 +706,7 @@ Voilà une citation qui pourrait résumer le parcours de Don Capablanca.
 
 Véritable chef de file, il parvient toujours à exhorter ses camarades pour que ceux-ci l'accompagnent dans le rayonnement de la Famille.
 
-De nombreuses réformes ont été menées durant son mondat comme par exemple l'ajout du grade de Malfaiteur - nouveauté historique puisque la hiérarchie de la MH n'avait jamais été modifiée depuis sa création - et un changement radical dans le système si vieillisant des associés.
+De nombreuses réformes ont été menées durant son mondat comme par exemple l'ajout du grade de Malfaiteur - nouveauté historique puisque la hiérarchie de la MH n'avait jamais été modifiée depuis sa création - et un changement radical dans le système si vieillissant des associés.
 
 L'initiative de rétablir La Kompany, d'y rattacher un site tout en y instaurant des branches fortes émergent de son esprit.
 
@@ -735,21 +767,23 @@ Il est le 10ème Don a être passé par tous les grades de la famille et le 23è
 
 Gualtiero appartient à la dernière génération du Grand Conseil de la Mafia-Habbo.
 
-Il succède à Don Redrem à la tête de la famille en avril 2020.
+Il succède à **Don Redrem** à la tête de la famille en **avril 2020**.
 
-Sous son règne, le grade de Crapule, supprimé lors de la réforme hiérarchique de 2019, est notamment réintroduit le 3 mai 2020.
+Sous son règne, le grade de **Crapule**, supprimé lors de la réforme hiérarchique de 2019, est notamment réintroduit le **3 mai 2020**.
 
-Il demeure le dernier Parrain de la Mafia-Habbo jusqu'à sa fermeture officielle le 18 février 2021.
+Il demeure le dernier Parrain de la Mafia-Habbo jusqu'à sa fermeture officielle le **18 février 2021**.
 
-Son personnage RP, Frederico Gualtiero Milano, est connu sous le blaze de **Double-Face**.
+Son personnage RP, **Frederico Gualtiero Milano**, est connu sous le blaze de **Double-Face**.
 
 Dans les archives de la Mafia-Habbo, il est décrit comme un personnage dont la personnalité aurait progressivement sombré dans la folie, différentes rumeurs RP attribuant cette transformation à une arme bactériologique, au meurtre de sa famille ou simplement à une instabilité présente depuis toujours.
+
+Contrairement aux fiches précédentes, cette présentation ne provient pas directement du sujet *Hommage aux Anciens*. Elle est reconstituée à partir d'autres documents publiés sur le forum officiel de la Mafia-Habbo afin de couvrir la dernière période de l'organisation.
 
 ---
 
 ## Une succession qui n'est pas toujours linéaire
 
-L'histoire des dirigeants de la Mafia-Habbo n'est pas une succession parfaitement linéaire sur toute la période 2005-2021.
+L'histoire des dirigeants de la Mafia-Habbo n'est pas une succession parfaitement linéaire sur toute la période **2005–2021**.
 
 Durant certaines périodes :
 
@@ -762,7 +796,13 @@ C'est notamment le cas durant les premières années, lorsque les **Familles K e
 
 Le cas de **Valtieri** illustre également cette particularité : son règne est interrompu par l'intérim de **Don Affondo**, avant son retour à la tête de la famille.
 
-La liste présentée sur cette page doit donc être comprise comme une conservation des dirigeants reconnus dans les archives de la Mafia-Habbo, et non comme une succession unique comparable à celle d'une organisation ayant toujours possédé une seule branche.
+Une personne peut donc apparaître comme le dirigeant d'une branche interne sans nécessairement constituer l'unique dirigeant de l'ensemble de la Mafia-Habbo à cette période.
+
+La liste présentée sur cette page doit être comprise comme une conservation des dirigeants reconnus dans les archives de la Mafia-Habbo, et non comme une succession unique comparable à celle d'une organisation ayant toujours possédé une seule branche.
+
+Pour comprendre le fonctionnement des différentes branches :
+
+[Familles liées à la Mafia-Habbo](familles.md)
 
 ---
 
@@ -772,9 +812,26 @@ La liste présentée sur cette page doit donc être comprise comme une conservat
 
 Forum officiel de la Mafia-Habbo :
 
-[https://mafiahabbo.superforum.fr/t15694-hommage-aux-anciens](https://mafiahabbo.superforum.fr/t15694-hommage-aux-anciens)
+[Consulter le sujet « Hommage aux Anciens »](https://mafiahabbo.superforum.fr/t15694-hommage-aux-anciens)
+
+Cette source constitue avant tout un **document mémoriel interne**.
+
+Elle mélange :
+
+- histoire de l'organisation ;
+- souvenirs de membres ;
+- jugements sur les différents dirigeants ;
+- humour ;
+- éléments de jeu de rôle ;
+- biographies fictives.
+
+Elle doit donc être lue comme une archive de la manière dont la Mafia-Habbo présentait elle-même ses anciens dirigeants, et non comme une série de biographies réelles des joueurs.
 
 Les informations complémentaires concernant **Don Gualtiero** proviennent également de documents publiés sur le forum officiel de la Mafia-Habbo.
+
+Pour consulter la méthodologie générale utilisée par cette archive :
+
+[Sources et méthodologie](sources.md)
 
 ---
 
