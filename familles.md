@@ -1,6 +1,6 @@
 ---
-title: Familles liées à la Mafia-Habbo
-description: Histoire des Familles Krapule, U$A, HT, Vitti, Hust et Valtieri ainsi que des principales organisations liées à la Mafia-Habbo.
+title: "Familles liées à la Mafia-Habbo"
+description: "Histoire des Familles Krapule, U$A, HT, Vitti, Hust et Valtieri, ainsi que des principales organisations liées à la Mafia-Habbo et au RPK."
 ---
 
 # Familles liées à la Mafia-Habbo
@@ -22,11 +22,15 @@ Parmi les principales familles ayant appartenu à la Mafia-Habbo figurent :
 
 La Mafia-Habbo a également entretenu des alliances, rivalités et relations particulières avec plusieurs organisations extérieures.
 
+Pour replacer ces différentes branches dans la chronologie générale :
+
+[Histoire de la Mafia-Habbo](histoire.md)
+
 ---
 
-# La notion de « famille » à la Mafia-Habbo
+## La notion de « famille » à la Mafia-Habbo
 
-Le terme **famille** peut désigner deux réalités différentes dans l'histoire du RPK.
+Le terme **famille** peut désigner deux réalités différentes dans l'histoire du **RPK**, ou *Role Play Krapule*.
 
 Il peut s'agir :
 
@@ -42,7 +46,7 @@ Elles disposent parfois :
 - d'une couleur vestimentaire ;
 - de membres répartis entre les différentes branches.
 
-Les grandes orientations restent cependant liées à la Mafia-Habbo et à son Grand Conseil.
+Les grandes orientations restent cependant liées à la Mafia-Habbo et à son [Grand Conseil](hierarchie.md).
 
 À d'autres périodes, ces divisions sont supprimées afin de revenir à une seule structure :
 
@@ -50,7 +54,7 @@ Les grandes orientations restent cependant liées à la Mafia-Habbo et à son Gr
 
 ---
 
-# Vue d'ensemble des familles internes
+## Vue d'ensemble des familles internes
 
 | Famille | Apparition | Particularité |
 |---|---|---|
@@ -63,7 +67,7 @@ Les grandes orientations restent cependant liées à la Mafia-Habbo et à son Gr
 
 ---
 
-# Famille Krapule — Famille K
+## Famille Krapule — Famille K
 
 La **Famille Krapule**, généralement appelée **Famille K**, constitue la racine historique de la Mafia-Habbo.
 
@@ -77,9 +81,7 @@ Elle est fondée par **Krapule**, dont l'initiale donne son nom à la famille.
 
 Ce n'est qu'avec l'intégration d'autres groupes que la distinction entre la **Mafia-Habbo**, organisation générale, et la **Famille K**, l'une de ses composantes, prend réellement son sens.
 
----
-
-## La couleur rouge
+### La couleur rouge
 
 La Famille K est historiquement reconnaissable à sa tenue.
 
@@ -94,9 +96,7 @@ Les archives internes associent symboliquement cette couleur au sang et à l'uni
 
 Cette interprétation relève toutefois de la mise en scène et du récit interne de l'organisation.
 
----
-
-## La famille fondatrice
+### La famille fondatrice
 
 La Famille K occupe une place particulière parmi les différentes branches de la Mafia-Habbo.
 
@@ -112,7 +112,7 @@ Elle est alors explicitement présentée comme la **racine de la Mafia-Habbo**.
 
 ---
 
-# Famille U$A
+## Famille U$A
 
 La **Famille U$A** est la première organisation importante à rejoindre la Famille K.
 
@@ -131,9 +131,7 @@ Pendant cette période, la MH est donc principalement constituée de :
 - la Famille K ;
 - la Famille U$A.
 
----
-
-## Une identité différente
+### Une identité différente
 
 La U$A possède une identité visuelle et culturelle sensiblement différente de celle de la Famille K.
 
@@ -143,9 +141,7 @@ Les archives décrivent notamment ses membres comme adoptant davantage un style 
 
 Cette différence reflète l'origine plus proche de l'univers des gangs américains de la U$A, alors que la Famille K développe progressivement une esthétique plus traditionnelle de mafia.
 
----
-
-# L'exclusion de la U$A
+### L'exclusion de la U$A
 
 Les relations entre les deux composantes se dégradent progressivement.
 
@@ -157,13 +153,11 @@ La U$A devient alors une organisation indépendante de la Mafia-Habbo sous le no
 
 À partir de ce moment, l'ancienne famille interne devient progressivement l'une des organisations concurrentes de la Mafia-Habbo.
 
-Quelques mois plus tard, le **16 août 2006**, la U$A-Family est notamment victime d'un important saccage lié à la Mafia-Habbo.
+Quelques mois plus tard, le **16 août 2006**, la U$A-Family est notamment victime d'un important [saccage](saccages.md) lié à la Mafia-Habbo.
 
 L'histoire de la U$A est donc particulière : elle est successivement partenaire, composante interne puis rivale de la MH.
 
----
-
-# La disparition de la U$A
+### La disparition de la U$A
 
 Les sources internes conservées ne sont pas parfaitement concordantes concernant la date exacte de la disparition définitive de la U$A-Family.
 
@@ -175,7 +169,7 @@ Cette divergence entre les archives est conservée ici plutôt que de retenir ar
 
 ---
 
-# Famille HT
+## Famille HT
 
 La **Famille HT** constitue la troisième famille à rejoindre la Mafia-Habbo.
 
@@ -185,9 +179,11 @@ Les initiales HT signifient :
 
 Elle est dirigée par **Yasbogosmen**.
 
-En **janvier 2006**, elle intègre la Mafia-Habbo à la suite d'un accord avec Don Vitti.
+En **janvier 2006**, elle se rapproche de la Mafia-Habbo à la suite d'un accord avec Don Vitti.
 
-Pendant quelques mois, la Mafia-Habbo est ainsi composée de trois branches :
+Son intégration est ensuite formalisée durant les premiers mois de 2006.
+
+Pendant cette période, la Mafia-Habbo est ainsi composée de trois branches :
 
 - Famille K ;
 - Famille U$A ;
@@ -195,9 +191,7 @@ Pendant quelques mois, la Mafia-Habbo est ainsi composée de trois branches :
 
 Cette configuration reste cependant relativement brève.
 
----
-
-# Le départ de la Famille HT
+### Le départ de la Famille HT
 
 Le **27 mai 2006**, la Famille HT quitte la Mafia-Habbo.
 
@@ -216,7 +210,7 @@ Ces deux joueurs auront d'ailleurs un rôle central dans la création d'une nouv
 
 ---
 
-# Famille Vitti — Famille V
+## Famille Vitti — Famille V
 
 La **Famille Vitti**, généralement appelée **Famille V**, est fondée le :
 
@@ -231,9 +225,11 @@ Ses fondateurs sont :
 
 Son nom est choisi en hommage à **Don Vitti**, l'une des figures importantes des premières années de la Mafia-Habbo.
 
----
+Les dirigeants historiques de ces différentes périodes sont présentés sur la page :
 
-## Le duo K et V
+[Les Parrains de la Mafia-Habbo](parrains.md)
+
+### Le duo K et V
 
 La Famille Vitti devient rapidement l'une des principales composantes de la Mafia-Habbo.
 
@@ -247,9 +243,7 @@ La Vitti constitue sa principale famille sœur.
 
 Cette structure permet notamment de répartir les membres entre plusieurs branches tout en maintenant une identité générale commune.
 
----
-
-## La couleur blanche
+### La couleur blanche
 
 La Famille Vitti possède elle aussi une tenue caractéristique.
 
@@ -264,7 +258,7 @@ Lors de la retraite de **Don Medzo** en octobre 2010, les membres revêtent nota
 
 ---
 
-# La FFV — Fausse Famille V
+## La FFV — Fausse Famille V
 
 Une organisation appelée **FFV**, ou **Fausse Famille V**, apparaît également dans l'histoire de la Mafia-Habbo.
 
@@ -281,7 +275,7 @@ Il convient donc de distinguer :
 
 ---
 
-# Réunification de 2010
+## Réunification de 2010
 
 Le **3 avril 2010**, les dirigeants de la Mafia-Habbo décident de supprimer la séparation entre la Famille K et la Famille Vitti.
 
@@ -297,7 +291,7 @@ La structure en familles n'est toutefois pas définitivement abandonnée.
 
 ---
 
-# Famille Hust — Famille H
+## Famille Hust — Famille H
 
 À la fin de l'année 2010, le système de familles fait son retour.
 
@@ -314,9 +308,7 @@ Elle est créée sous **Don Sayc** et **Alshak**.
 
 Son nom rend hommage à **Don Hust**, ancien dirigeant de la Famille Vitti et figure importante de la Mafia-Habbo.
 
----
-
-## Les premiers dirigeants
+### Les premiers dirigeants
 
 Lors de la réorganisation de décembre 2010 :
 
@@ -325,11 +317,9 @@ Lors de la réorganisation de décembre 2010 :
 
 Les archives consacrées à la Famille H mentionnent également **Vince** parmi ses premiers responsables.
 
-La composition exacte de la direction évolue ensuite avec les promotions et changements de la hiérarchie.
+La composition exacte de la direction évolue ensuite avec les promotions et changements de la [hiérarchie](hierarchie.md).
 
----
-
-## La couleur grise
+### La couleur grise
 
 La Famille Hust possède pour couleur caractéristique le :
 
@@ -344,7 +334,7 @@ Selon le récit interne, le gris aurait été choisi parce qu'il s'agissait de l
 
 ---
 
-# Une structure régulièrement modifiée
+## Une structure régulièrement modifiée
 
 La division en familles n'est jamais totalement stable.
 
@@ -362,7 +352,7 @@ Le système permet notamment de répartir les membres en groupes plus réduits e
 
 ---
 
-# Famille Valtieri
+## Famille Valtieri
 
 La **Famille Valtieri** apparaît en **2014**.
 
@@ -372,9 +362,7 @@ Elle est créée par **Don Gemeni** en hommage à son prédécesseur :
 
 Elle prend la place historiquement occupée par la Famille Vitti dans le système de branches de la Mafia-Habbo.
 
----
-
-## Direction
+### Direction
 
 À sa création, la Famille Valtieri est dirigée par le Capo :
 
@@ -384,9 +372,11 @@ Don Valtieri lui-même occupe temporairement auprès de cette branche une foncti
 
 La création de cette famille intervient dans une période particulière de l'histoire de la Mafia-Habbo, peu après la crise institutionnelle ayant conduit à la dissolution du Conseil des Aînés en septembre 2014.
 
----
+Cette crise est également présentée parmi les :
 
-## Un hommage à Don Valtieri
+[Grands événements de la Mafia-Habbo](evenements.md)
+
+### Un hommage à Don Valtieri
 
 Le sujet officiel consacré aux familles présente la création de la Famille Valtieri comme un hommage au règne de Don Valtieri.
 
@@ -398,7 +388,7 @@ Historiquement, le fait principal est que la famille est créée sous Gemeni et 
 
 ---
 
-# Les couleurs des principales familles
+## Les couleurs des principales familles
 
 Les couleurs permettent historiquement d'identifier certaines branches de la Mafia-Habbo.
 
@@ -414,7 +404,7 @@ Elles deviennent progressivement des éléments de mémoire et d'identité propr
 
 ---
 
-# Familles internes et organisations extérieures
+## Familles internes et organisations extérieures
 
 Il est important de distinguer les familles ayant réellement appartenu à la Mafia-Habbo des organisations simplement présentes dans son environnement.
 
@@ -422,11 +412,13 @@ Les **Familles Krapule, U$A, HT, Vitti, Hust et Valtieri** ont, à différentes 
 
 À l'inverse, des organisations telles que la **Bjork-Family**, la **Famille Liggio**, la **Spades Assembly**, la **Sacra Corona Unita** ou la **Winchester's** sont des organisations indépendantes.
 
-Leur présence sur cette page s'explique uniquement par leur importance dans l'histoire et les relations extérieures de la Mafia-Habbo.
+La **Famille Liggio**, en particulier, n'a jamais constitué une famille interne de la Mafia-Habbo.
+
+La présence de ces organisations sur cette page s'explique uniquement par leur importance dans l'histoire et les relations extérieures de la MH.
 
 ---
 
-# Gen13
+## Gen13
 
 Le **Gen13** est l'un des premiers groupes étroitement liés à l'histoire de la Mafia-Habbo.
 
@@ -444,9 +436,7 @@ Parmi eux figurent notamment :
 - Flamers ;
 - YokiPeACh.
 
----
-
-## Alliance avec la Mafia-Habbo
+### Alliance avec la Mafia-Habbo
 
 Le Gen13 conclut une alliance avec la Mafia-Habbo en **novembre 2005**.
 
@@ -462,7 +452,7 @@ Le même jour, **YokiPeACh**, qui s'était rapprochée de la Mafia-Habbo, réali
 
 ---
 
-# Bjork-Family
+## Bjork-Family
 
 La **Bjork-Family** est l'une des organisations extérieures les plus importantes dans l'histoire de la Mafia-Habbo.
 
@@ -479,9 +469,7 @@ Elles passent successivement par :
 - une rupture ;
 - puis une longue rivalité.
 
----
-
-## Alliance de 2006
+### Alliance de 2006
 
 La Mafia-Habbo et la Bjork-Family concluent officiellement une alliance le :
 
@@ -493,31 +481,29 @@ L'alliance intervient seulement deux jours après le saccage de la U$A-Family.
 
 Les archives de la Mafia-Habbo présentent même cette opération comme ayant été préparée avec la participation de la Bjork.
 
----
-
-## Fin de l'alliance
+### Fin de l'alliance
 
 L'alliance ne dure pas.
 
 Les archives de la Mafia-Habbo donnent une explication très partisane de sa rupture et attribuent notamment à la Bjork l'intention de rejoindre la MH en tant que nouvelle famille interne.
 
-Cette version doit être considérée avec prudence faute de source indépendante permettant de confirmer l'ensemble du récit.
+Cette version doit être considérée avec prudence : les archives officielles de la Mafia-Habbo consultées ne permettent pas d'établir avec certitude l'ensemble des intentions prêtées à la Bjork.
 
-Ce qui est certain est que les deux organisations deviennent ensuite des adversaires récurrents.
+Ce qui est documenté dans les archives de la MH est que les deux organisations deviennent ensuite des adversaires récurrents.
 
 La rivalité entre la Mafia-Habbo et la Bjork-Family se poursuivra, avec différentes intensités, pendant plus d'une décennie.
 
-Elle constitue l'une des rivalités les plus longues de l'histoire du RPK.
+Elle constitue l'une des rivalités les plus longues documentées dans l'histoire de la Mafia-Habbo.
 
-La Bjork-Family ferme finalement ses portes en **2018**, après avoir notamment subi un nouveau saccage important de la Mafia-Habbo.
+La Bjork-Family ferme finalement ses portes en **2018**, après avoir notamment subi un nouveau saccage important revendiqué par la Mafia-Habbo.
 
 ---
 
-# Les principaux adversaires historiques
+## Les principaux adversaires historiques
 
 Au fil du développement du RPK, plusieurs organisations occupent une place importante face à la Mafia-Habbo.
 
-Parmi les noms revenant régulièrement dans les archives figurent notamment :
+Parmi les noms revenant régulièrement dans ses archives figurent notamment :
 
 - U$A-Family ;
 - Bjork-Family ;
@@ -533,9 +519,13 @@ Certaines connaissent plusieurs créations, fermetures ou renaissances.
 
 Cette instabilité explique pourquoi l'histoire des organisations du RPK ne peut pas toujours être résumée par une simple chronologie linéaire.
 
+Les principaux affrontements et disparitions d'organisations sont également abordés dans :
+
+[Grands événements de la Mafia-Habbo](evenements.md)
+
 ---
 
-# Une identité au-delà des familles
+## Une identité au-delà des familles
 
 Même lorsque plusieurs familles internes existent simultanément, leurs membres restent avant tout membres de la :
 
@@ -553,9 +543,13 @@ Cela explique également pourquoi une liste totalement linéaire des Parrains de
 
 Plusieurs dirigeants de familles différentes peuvent exercer leurs fonctions simultanément.
 
+Pour consulter les différents dirigeants documentés :
+
+[Les Parrains de la Mafia-Habbo](parrains.md)
+
 ---
 
-# Héritage des familles
+## Héritage des familles
 
 Les différentes familles internes ont laissé une forte empreinte dans la culture de la Mafia-Habbo.
 
@@ -575,14 +569,37 @@ La Hust correspond à une nouvelle organisation des branches au début des anné
 
 La Valtieri représente l'une des dernières grandes réapparitions du système de familles.
 
-À travers leurs créations, suppressions et réunifications successives, ces branches illustrent également la manière dont la Mafia-Habbo adapte régulièrement son organisation interne au nombre de membres et aux différentes générations de joueurs.
+À travers leurs créations, suppressions et réunifications successives, ces branches illustrent également la manière dont la Mafia-Habbo adapte régulièrement son organisation interne aux différentes périodes de son histoire.
 
 ---
 
-# Voir aussi
+## Sources et interprétation
+
+Cette page repose sur les documents conservés sur les **forums officiels de la Mafia-Habbo**.
+
+Certains de ces documents sont contemporains des événements décrits, tandis que d'autres sont des rétrospectives publiées plusieurs années plus tard.
+
+Ils peuvent donc contenir :
+
+- des divergences de dates ;
+- des simplifications ;
+- des jugements institutionnels ;
+- des éléments de jeu de rôle ;
+- des interprétations propres à la Mafia-Habbo.
+
+Lorsque les archives internes se contredisent de manière significative, cette divergence est conservée plutôt que masquée.
+
+Pour plus de détails sur la méthode utilisée :
+
+[Sources et archives](sources.md)
+
+---
+
+## Voir aussi
 
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Hiérarchie de la Mafia-Habbo](hierarchie.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Saccages et Vendettas](saccages.md)
 - [Grands événements](evenements.md)
 - [Sources et archives](sources.md)
