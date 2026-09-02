@@ -6,6 +6,17 @@ Ce projet indépendant vise à préserver et rendre accessibles les archives his
 
 Le contenu repose exclusivement sur les anciens forums officiels de la Mafia-Habbo ainsi que sur les documents, captures et archives qui y ont été publiés.
 
+## Repères essentiels
+
+- **Nom :** Mafia-Habbo
+- **Abréviation :** MH
+- **Création :** 15 avril 2005
+- **Fondateur :** Krapule
+- **Plateforme :** Habbo.fr
+- **Univers :** RPK — Role Play Krapule
+- **Fermeture :** 18 février 2021
+- **Durée d'existence :** près de seize ans
+
 ## Ligne éditoriale
 
 Cette archive n'est pas un site officiel et ne prétend pas fournir une interprétation définitive de tous les événements.
