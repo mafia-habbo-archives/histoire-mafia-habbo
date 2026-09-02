@@ -725,5 +725,6 @@ Les témoignages privés ou souvenirs personnels ne constituent pas, dans cette 
 - [Saccages et Vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 **Ad Vitam Æternam.**
