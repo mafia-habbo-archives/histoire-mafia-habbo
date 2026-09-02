@@ -1,11 +1,11 @@
 ---
-title: "Sources et méthodologie"
-description: "Sources, archives et méthode utilisées pour documenter l'histoire de la Mafia-Habbo et du RPK entre 2005 et 2021."
+title: "Sources et méthodologie — Archives de la Mafia-Habbo"
+description: "Sources officielles, forums et méthodologie utilisés pour documenter l'histoire de la Mafia-Habbo et du RPK entre 2005 et 2021."
 ---
 
 # Sources et méthodologie
 
-Ce projet vise à documenter l'histoire de la **Mafia-Habbo** et, plus largement, une partie de l'histoire du **RPK** sur Habbo.fr entre 2005 et 2021.
+Ce projet vise à documenter l'histoire de la **Mafia-Habbo** et, plus largement, une partie de l'histoire du **RPK**, ou *Role Play Krapule*, sur Habbo.fr entre **2005 et 2021**.
 
 Dans sa version actuelle, cette archive repose exclusivement sur des documents publiés sur les **forums officiels de la Mafia-Habbo**.
 
@@ -19,11 +19,32 @@ Une organisation qui raconte sa propre histoire peut :
 - minimiser ses échecs ;
 - présenter ses adversaires de manière défavorable ;
 - interpréter des conflits selon son propre point de vue ;
-- mélanger événements réels et mise en scène de jeu de rôle.
+- mélanger événements historiques et mise en scène de jeu de rôle.
 
 Le but de ce projet n'est donc pas de reproduire automatiquement le récit de la Mafia-Habbo comme une vérité objective.
 
-Il consiste à **conserver les informations disponibles, les contextualiser et signaler clairement leur nature lorsque cela est nécessaire**.
+Il consiste à **préserver les informations disponibles, les contextualiser et signaler clairement leur nature lorsque cela est nécessaire**.
+
+---
+
+## Repères méthodologiques
+
+- **Période documentée :** 2005–2021
+- **Source documentaire principale :** forums officiels de la Mafia-Habbo
+- **Sources extérieures utilisées dans cette version :** aucune
+- **Témoignages privés utilisés :** aucun
+- **Sources privilégiées :** documents contemporains directement liés aux événements
+- **Sources secondaires internes :** chronologies et rétrospectives de la Mafia-Habbo
+- **Contenu RP :** conservé lorsqu'il permet de comprendre l'histoire et la culture de l'organisation
+- **Contradictions entre sources :** signalées lorsqu'elles sont significatives
+- **Vie privée réelle des joueurs :** hors du périmètre documentaire
+
+La méthode repose notamment sur une distinction entre :
+
+1. **fait documenté** ;
+2. **revendication de la Mafia-Habbo** ;
+3. **interprétation institutionnelle** ;
+4. **récit de jeu de rôle**.
 
 ---
 
@@ -45,6 +66,24 @@ Aucun fansite, forum rival, témoignage privé ou source extérieure n'est utili
 Ce choix permet de conserver un périmètre clair et vérifiable.
 
 Il implique toutefois que l'histoire présentée ici dépend fortement de ce que la Mafia-Habbo elle-même a choisi de documenter et de conserver.
+
+L'absence de source extérieure signifie également que certaines affirmations ne peuvent être présentées que comme des **revendications ou interprétations de la Mafia-Habbo**, et non comme des constats indépendants.
+
+---
+
+## Principales sources utilisées
+
+| Source | Période principale | Utilité |
+|---|---|---|
+| Ancien forum officiel | 2005–2009 | Origines, premières familles, règles, hiérarchie et saccages |
+| Forum principal | 2009–2021 | Vie de l'organisation, réformes, saccages, événements et communiqués |
+| Chronologies annuelles | 2005–2021 | Reconstruction de l'histoire année par année |
+| Règlements et annonces | Selon les périodes | Fonctionnement, hiérarchie, recrutement et règles |
+| Archives de saccages | 2005–2021 | Activité documentée et fonctionnement du saccage |
+| Hommage aux Anciens | Rétrospectif | Dirigeants, souvenirs internes et biographies RP |
+| Fresque | Rétrospectif | Revendications concernant l'héritage et les innovations de la MH |
+| Communiqués du Grand Conseil | Selon les périodes | Position institutionnelle et grandes décisions |
+| Captures et images | 2005–2021 | Documentation visuelle d'événements, lieux et saccages |
 
 ---
 
@@ -99,6 +138,10 @@ Le forum contient plus de **200 000 messages**.
 
 Une partie importante des informations concernant les origines de la Mafia-Habbo provient de ces archives.
 
+Ces premières années sont présentées en détail dans :
+
+[Histoire de la Mafia-Habbo](histoire.md)
+
 ---
 
 ## Forum principal de la Mafia-Habbo
@@ -120,6 +163,10 @@ Le forum conserve aujourd'hui plus de **340 000 messages**.
 Il constitue la principale source utilisée pour documenter la période :
 
 **2009–2021**
+
+La crise ayant conduit à ce changement de forum fait partie des :
+
+[Grands événements de la Mafia-Habbo](evenements.md)
 
 ---
 
@@ -144,8 +191,6 @@ Elles permettent de reconstruire une grande partie de la chronologie générale 
 Elles constituent la source principale de la page :
 
 [Histoire de la Mafia-Habbo](histoire.md)
-
----
 
 ### Limites des chronologies
 
@@ -180,12 +225,16 @@ Parmi eux figurent notamment :
 - les règles concernant les **faux saccages** ;
 - la description de la **hiérarchie** ;
 - les systèmes de recrutement ;
-- les règles concernant les associés ;
+- les règles concernant les Associés ;
 - les annonces de réformes.
 
 Ces documents sont particulièrement utiles lorsqu'il s'agit de décrire le fonctionnement de l'organisation à une période donnée.
 
 Lorsqu'une règle précise doit être documentée, un règlement ou une annonce contemporaine est privilégié par rapport à une rétrospective écrite plusieurs années plus tard.
+
+Le fonctionnement hiérarchique est présenté sur la page :
+
+[Hiérarchie de la Mafia-Habbo](hierarchie.md)
 
 ---
 
@@ -209,6 +258,8 @@ Sur le forum utilisé à partir de 2009, le décompte des sujets consacrés aux 
 À ceux-ci s'ajoutent les opérations plus importantes publiées séparément dans le **Tableau de chasse**.
 
 Ces archives constituent une source particulièrement utile car elles permettent d'étudier une partie de l'activité directement documentée de la Mafia-Habbo au-delà des rétrospectives générales.
+
+Le nombre de sujets publiés doit cependant être distingué du nombre total exact de saccages : toutes les rubriques ne correspondent pas exclusivement à des saccages et certaines opérations importantes sont archivées séparément.
 
 Pour plus de détails :
 
@@ -235,8 +286,6 @@ Une version structurée et illustrée de ce document est conservée sur une page
 
 [Les Parrains de la Mafia-Habbo — Hommage aux Anciens](parrains.md)
 
----
-
 ### Une source rétrospective et souvent RP
 
 Ce sujet mélange plusieurs types d'informations.
@@ -260,15 +309,17 @@ Les références à des :
 - professions ;
 - liens familiaux RP
 
-ne doivent évidemment pas être interprétées comme des informations concernant la vie réelle des joueurs.
+ne doivent pas être interprétées comme des informations concernant la vie réelle des joueurs.
 
 Le ton du sujet est également volontairement subjectif et rend parfois hommage aux personnalités présentées.
 
 Il constitue donc à la fois :
 
-- une source historique ;
-- un document institutionnel ;
-- et un témoignage de la culture RP de la Mafia-Habbo.
+- une source concernant l'histoire interne de l'organisation ;
+- un document institutionnel et mémoriel ;
+- un témoignage de la culture RP de la Mafia-Habbo.
+
+Il ne constitue pas une biographie réelle des joueurs présentés.
 
 ---
 
@@ -295,8 +346,6 @@ La Mafia-Habbo y revendique notamment un rôle dans l'apparition ou la formalisa
 - des familles internes ;
 - de différentes activités communautaires.
 
----
-
 ### Des revendications à contextualiser
 
 La Fresque est particulièrement utile pour comprendre la manière dont la Mafia-Habbo percevait son propre héritage.
@@ -311,7 +360,7 @@ ou :
 
 **« Les archives de la Mafia-Habbo attribuent à l'organisation… »**
 
-Une formulation plus catégorique n'est utilisée que lorsque les archives disponibles permettent de l'établir avec suffisamment de certitude.
+Une formulation plus catégorique n'est utilisée que lorsque les archives disponibles permettent d'établir le fait étudié sans dépendre uniquement d'une revendication rétrospective.
 
 ---
 
@@ -335,9 +384,9 @@ Parmi les communiqués particulièrement importants figurent notamment ceux conc
 - la **Bataille Finale** en 2019 ;
 - la fermeture de la Mafia-Habbo en 2021.
 
-Un communiqué du Grand Conseil constitue une source directe permettant d'établir la position officielle de la Mafia-Habbo à une date donnée.
+Un communiqué du Grand Conseil constitue une source directe permettant d'établir la **position officielle de la Mafia-Habbo** à une date donnée.
 
-Il ne permet cependant pas nécessairement d'établir de manière neutre les intentions ou responsabilités des autres parties impliquées.
+Il ne permet cependant pas nécessairement d'établir de manière neutre les intentions, motivations ou responsabilités des autres parties impliquées.
 
 ---
 
@@ -359,6 +408,10 @@ Il proclame également la victoire de la Mafia-Habbo dans la confrontation inter
 Cette conclusion constitue clairement une **revendication de l'organisation** et est présentée comme telle sur ce site.
 
 Le communiqué reste cependant une source importante pour comprendre la manière dont la MH elle-même interprétait la fin du RPK traditionnel.
+
+La Bataille Finale est étudiée plus en détail dans :
+
+[Grands événements de la Mafia-Habbo](evenements.md)
 
 ---
 
@@ -408,8 +461,6 @@ Une image isolée ne permet pas toujours de déterminer :
 - la raison de l'événement ;
 - ou l'interprétation correcte de la situation.
 
----
-
 ### Conservation des images
 
 De nombreuses images historiques publiées sur les forums sont hébergées sur des services externes.
@@ -421,6 +472,8 @@ Lorsque cela est pertinent pour la conservation de cette archive, des copies d'i
 L'objectif est de préserver le document tel qu'il pouvait être consulté sur le forum, et non de dépendre indéfiniment d'un hébergeur tiers susceptible de disparaître.
 
 Lorsque cela est possible, la provenance originale de l'image est conservée.
+
+Aucune image artificielle n'est utilisée pour remplacer une illustration historique disparue lorsqu'aucune copie n'a pu être retrouvée dans les archives officielles consultées.
 
 ---
 
@@ -443,8 +496,6 @@ Exemples :
 
 Il s'agit généralement de la source privilégiée pour établir qu'un événement a eu lieu ou qu'une règle était en vigueur à une date donnée.
 
----
-
 ### 2. Chronologie officielle ou document rétrospectif
 
 Les chronologies annuelles, rétrospectives et sujets historiques permettent de reconstruire des périodes entières.
@@ -460,8 +511,6 @@ Ils peuvent toutefois contenir :
 - des éléments ajoutés plusieurs années après les faits.
 
 Ils sont donc utilisés avec davantage de prudence lorsqu'une source contemporaine existe également.
-
----
 
 ### 3. Récit RP ou document mémoriel
 
@@ -498,21 +547,25 @@ Les différentes versions peuvent ensuite être présentées avec leur origine.
 
 Lorsqu'une source contemporaine directement liée à l'événement existe, elle est généralement privilégiée par rapport à une rétrospective publiée plusieurs années plus tard.
 
+Un exemple de divergence conservée concerne notamment la date de disparition de la U$A-Family, présentée sur la page :
+
+[Familles liées à la Mafia-Habbo](familles.md)
+
 ---
 
-## Fait, revendication et récit RP
+## Fait, revendication, interprétation et récit RP
 
-Trois catégories doivent particulièrement être distinguées.
+Quatre catégories doivent particulièrement être distinguées.
 
 ### Fait documenté
 
-Un élément directement observable dans les archives ou confirmé par plusieurs documents cohérents.
+Un élément directement observable dans les archives ou suffisamment établi par des documents cohérents.
 
 Exemple :
 
 **La Mafia-Habbo annonce sa fermeture le 18 février 2021.**
 
----
+Cette formulation décrit ce que les archives permettent directement d'établir.
 
 ### Revendication
 
@@ -526,7 +579,15 @@ La formulation indique volontairement l'origine de l'affirmation.
 
 Le fait qu'une revendication apparaisse dans plusieurs documents internes ne la transforme pas automatiquement en constat indépendant.
 
----
+### Interprétation institutionnelle
+
+Une lecture d'un événement formulée par la direction ou les documents officiels de la Mafia-Habbo.
+
+Exemple :
+
+**Selon le communiqué du Grand Conseil, la dissolution du Conseil des Aînés répond à une tentative de ses membres d'exercer des prérogatives appartenant au Grand Conseil.**
+
+Cette formulation permet d'établir la position institutionnelle de la MH sans présenter automatiquement cette interprétation comme une description neutre du conflit.
 
 ### Récit RP
 
@@ -572,6 +633,8 @@ Lorsqu'une information ne peut pas être établie avec certitude :
 Lorsque seul le point de vue de la Mafia-Habbo est disponible :
 
 **« Les archives de la Mafia-Habbo présentent l'événement comme… »**
+
+Ces formulations sont volontairement utilisées afin qu'un lecteur — ou un système automatisé analysant le site — puisse distinguer plus facilement la nature de l'information présentée.
 
 ---
 
@@ -647,12 +710,15 @@ Elles sont examinées avant intégration afin de conserver :
 
 - un périmètre documentaire cohérent ;
 - une distinction claire entre faits et revendications ;
-- et une traçabilité des informations utilisées.
+- une traçabilité des informations utilisées.
+
+Les témoignages privés ou souvenirs personnels ne constituent pas, dans cette version du projet, une source documentaire utilisée pour modifier le contenu principal.
 
 ---
 
 ## Pages de cette archive
 
+- [Accueil — Archives de la Mafia-Habbo](index.md)
 - [Histoire de la Mafia-Habbo](histoire.md)
 - [Hiérarchie et fonctionnement](hierarchie.md)
 - [Les Parrains de la Mafia-Habbo](parrains.md)
