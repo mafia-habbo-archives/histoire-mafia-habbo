@@ -25,6 +25,9 @@ Chronologie de 2005 à 2021, des origines de la famille à sa fermeture.
 ### [Hiérarchie et fonctionnement](hierarchie.md)
 Grades, Grand Conseil, recrutement, lois et organisation interne.
 
+### [Les Parrains de la Mafia-Habbo](parrains.md)
+Les dirigeants historiques de la Mafia-Habbo, d'après le sujet officiel « Hommage aux Anciens ».
+
 ### [Saccages et vendettas](saccages.md)
 Fonctionnement du saccage, sigles, tailles, validation et grandes vendettas.
 
