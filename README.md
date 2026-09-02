@@ -4,7 +4,7 @@
 
 Ce projet indépendant vise à préserver et rendre accessibles les archives historiques de la **Mafia-Habbo**, organisation créée sur Habbo.fr le **15 avril 2005** et fermée le **18 février 2021**.
 
-Le contenu repose principalement sur les anciens forums de la Mafia-Habbo, les documents et captures encore disponibles, ainsi que sur des sources publiques contemporaines des événements.
+Le contenu repose exclusivement sur les anciens forums officiels de la Mafia-Habbo ainsi que sur les documents, captures et archives qui y ont été publiés.
 
 ## Ligne éditoriale
 
