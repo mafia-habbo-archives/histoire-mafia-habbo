@@ -1370,5 +1370,6 @@ Fermeture volontaire de la Mafia-Habbo après près de seize années d'activité
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
 - [Sources et archives](sources.md)
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 **Ad Vitam Æternam.**
