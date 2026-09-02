@@ -319,6 +319,10 @@ Le Parrain possède en principe le dernier mot sur les décisions importantes.
 
 Malgré l'autorité très forte associée à cette fonction, la Mafia-Habbo est généralement dirigée de manière collective avec le Grand Conseil, particulièrement durant les périodes les plus institutionnalisées de son histoire.
 
+Pour retrouver les différents dirigeants de la Mafia-Habbo au fil de son histoire :
+
+[Les Parrains de la Mafia-Habbo](parrains.md)
+
 ---
 
 # Les escouades
@@ -441,6 +445,7 @@ Le Parrain reste le dirigeant suprême, mais la direction repose sur un ensemble
 # Voir aussi
 
 - [Histoire de la Mafia-Habbo](histoire.md)
+- [Les Parrains de la Mafia-Habbo](parrains.md)
 - [Saccages et vendettas](saccages.md)
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
