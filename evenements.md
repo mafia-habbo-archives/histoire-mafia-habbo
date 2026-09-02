@@ -1,5 +1,5 @@
 ---
-title: "Grands événements de la Mafia-Habbo"
+title: "Grands événements de la Mafia-Habbo (2005–2021)"
 description: "Les principaux tournants de l'histoire de la Mafia-Habbo et du RPK entre 2005 et 2021 : fondation, crises, rivalités, Bataille Finale et fermeture."
 ---
 
@@ -50,11 +50,11 @@ L'organisation qui apparaît alors est encore très différente de celle qui exi
 
 Elle se structure progressivement autour :
 
-- d'une hiérarchie ;
+- d'une [hiérarchie](hierarchie.md) ;
 - de règles de comportement ;
 - d'un système de promotion ;
 - de locaux ;
-- de différentes familles ;
+- de différentes [familles internes](familles.md) ;
 - et d'activités destinées à affronter les organisations concurrentes.
 
 La première structure devient connue sous le nom de :
@@ -75,7 +75,7 @@ C'est également durant cette première période que se mettent en place plusieu
 
 Les archives de la Mafia-Habbo lui attribuent la création ou la formalisation de nombreux éléments du jeu mafieux sur Habbo.
 
-Ces affirmations proviennent principalement de la MH elle-même et doivent donc être comprises comme des **revendications historiques de l'organisation**.
+Ces affirmations proviennent de la MH elle-même et doivent donc être comprises comme des **revendications historiques de l'organisation**.
 
 Parmi les principaux éléments apparaissant durant cette première période figurent :
 
@@ -84,7 +84,7 @@ Parmi les principaux éléments apparaissant durant cette première période fig
 - la Mafia-Attitude ;
 - les premiers locaux institutionnels ;
 - le forum ;
-- le saccage ;
+- le [saccage](saccages.md) ;
 - le système de familles internes ;
 - puis le sigle réalisé avec le mobilier.
 
@@ -155,6 +155,10 @@ Le forum transforme progressivement des actions temporaires réalisées dans Hab
 
 Cette importance de l'archive écrite restera constante jusqu'à la fermeture de la Mafia-Habbo.
 
+Les forums constituent aujourd'hui la principale base documentaire utilisée par ce projet.
+
+[Voir les sources et archives](sources.md)
+
 ---
 
 ### Le saccage et le sigle
@@ -190,6 +194,10 @@ Au début de l'année 2006, elle comprend notamment :
 - la Famille HT.
 
 Cette structure éclate au printemps.
+
+Pour une présentation détaillée de ces différentes branches :
+
+[Familles liées à la Mafia-Habbo](familles.md)
 
 ---
 
@@ -243,7 +251,7 @@ Les relations entre familles reposent de plus en plus sur :
 
 Dans sa propre lecture historique publiée bien plus tard, la Mafia-Habbo situe approximativement en **mai 2006** le début d'une nouvelle phase du RPK.
 
-La domination des premiers mois laisse progressivement place à un environnement beaucoup plus concurrentiel.
+La domination revendiquée durant les premiers mois laisse progressivement place à un environnement beaucoup plus concurrentiel.
 
 ---
 
@@ -322,6 +330,10 @@ Le Grand Conseil est alors reconstruit autour de :
 
 L'ancienne Famille V est également rétablie.
 
+Les différents dirigeants de cette période sont présentés sur la page consacrée aux :
+
+[Parrains de la Mafia-Habbo](parrains.md)
+
 ---
 
 ### Le Traité de la Révolution
@@ -370,6 +382,8 @@ Des centaines de milliers de messages y seront progressivement publiés.
 
 Il constitue aujourd'hui l'une des principales sources permettant de reconstruire l'histoire de la Mafia-Habbo.
 
+[Consulter la méthodologie et les sources utilisées](sources.md)
+
 ---
 
 ## 5 septembre 2014 — Dissolution du Conseil des Aînés
@@ -407,15 +421,19 @@ Le vocabulaire particulièrement accusateur utilisé dans les documents contempo
 
 ### Une redéfinition de l'autorité
 
-Au-delà des accusations échangées, la conséquence institutionnelle est claire.
+Au-delà des accusations formulées dans le communiqué, la conséquence institutionnelle est claire.
 
-Le communiqué affirme que :
+Le texte affirme que :
 
 **le Grand Conseil constitue le seul organe plénipotentiaire de la Mafia-Habbo.**
 
 La crise marque ainsi une rupture avec l'idée selon laquelle d'anciens dirigeants pourraient continuer à exercer une autorité institutionnelle simplement en raison de leur ancienneté ou de leurs anciennes fonctions.
 
-Le pouvoir appartient désormais explicitement à la direction active de la Mafia-Habbo.
+Le pouvoir est dès lors explicitement rattaché à la direction active de la Mafia-Habbo.
+
+Pour comprendre le fonctionnement du Grand Conseil :
+
+[Hiérarchie de la Mafia-Habbo](hierarchie.md)
 
 ---
 
@@ -456,7 +474,7 @@ Certaines sont directement issues des premières années du RPK.
 
 D'autres apparaissent plusieurs années après la création de la Mafia-Habbo.
 
-Les sources disponibles ne permettent pas toujours d'établir avec la même précision les circonstances et la date exacte de disparition de chacune d'entre elles.
+Les archives officielles de la Mafia-Habbo ne permettent pas toujours d'établir avec la même précision les circonstances et la date exacte de disparition de chacune d'entre elles.
 
 ---
 
@@ -477,7 +495,7 @@ Un saccage important peut :
 - entraîner des départs ;
 - accélérer une fermeture.
 
-Il est cependant rarement possible de démontrer qu'il constitue, à lui seul, la cause de la disparition d'une famille.
+Les archives disponibles ne permettent cependant pas toujours d'établir qu'un saccage constitue, à lui seul, la cause de la disparition d'une organisation.
 
 ---
 
@@ -496,6 +514,10 @@ Les deux organisations connaissent successivement :
 
 La Bjork constitue ainsi l'un des adversaires historiques les plus durables de la Mafia-Habbo.
 
+Son histoire et sa relation avec la MH sont également abordées dans :
+
+[Familles liées à la Mafia-Habbo](familles.md)
+
 ---
 
 ### Novembre 2018 — La fin de la Bjork
@@ -504,11 +526,11 @@ En novembre **2018**, **Confringo** réalise pour la Mafia-Habbo un nouveau sacc
 
 La Bjork ferme ensuite ses portes.
 
-Sa disparition possède une valeur symbolique importante.
+Sa disparition possède une valeur symbolique importante dans le récit historique de la Mafia-Habbo.
 
-Une organisation présente dans l'environnement de la Mafia-Habbo depuis les premières années du RPK disparaît à son tour.
+Une organisation présente dans son environnement depuis les premières années du RPK disparaît à son tour.
 
-À la fin des années 2010, le nombre de grandes familles historiques encore actives est devenu très faible.
+À la fin des années 2010, le nombre de grandes familles historiques encore actives est devenu très faible selon les archives de la MH.
 
 Cette évolution joue un rôle central dans la manière dont la Mafia-Habbo interprète alors sa propre histoire.
 
@@ -540,7 +562,7 @@ Certaines organisations apparues durant cette période finissent par évoluer av
 
 La séparation de plusieurs groupes et le développement de nouvelles familles donnent naissance à un environnement beaucoup plus concurrentiel.
 
-La Mafia-Habbo doit alors évoluer pendant plus d'une décennie au milieu de nombreuses organisations.
+La Mafia-Habbo évolue alors pendant plus d'une décennie au milieu de nombreuses organisations.
 
 Le communiqué cite notamment :
 
@@ -554,7 +576,7 @@ Le communiqué cite notamment :
 
 ### La revendication d'une victoire
 
-En 2019, la plupart des grandes organisations historiques ont fermé.
+En 2019, la plupart des grandes organisations historiques évoquées par le communiqué ont fermé.
 
 La Mafia-Habbo considère alors être la dernière grande famille issue de cet ancien système encore en activité.
 
@@ -576,7 +598,7 @@ Pour appuyer son récit, le communiqué revendique notamment :
 
 Il estime également que le nombre total réalisé depuis la création de la famille en 2005 pourrait être largement supérieur.
 
-Le volume des archives encore consultables confirme dans tous les cas une activité extrêmement importante.
+L'ampleur des archives encore consultables est cohérente avec une activité particulièrement importante autour des saccages au cours de cette période.
 
 Pour une analyse plus détaillée des saccages et des chiffres conservés :
 
@@ -628,9 +650,9 @@ Elle conserve notamment :
 - son recrutement ;
 - ses activités internes.
 
-Mais l'environnement dans lequel elle évolue a profondément changé.
+Mais l'environnement du RPK décrit dans ses archives a profondément changé.
 
-Les principaux adversaires historiques ont disparu.
+Ses principaux adversaires historiques ont disparu.
 
 Le nombre d'organisations comparables est devenu très faible.
 
@@ -688,15 +710,21 @@ Il continue principalement à servir d'espace :
 
 Cette conservation permet aujourd'hui encore de retrouver une partie importante des documents produits pendant les années d'activité de la Mafia-Habbo.
 
-Aucune réouverture officielle de la Mafia-Habbo n'a lieu après le **18 février 2021**.
+Les archives officielles consultées ne montrent aucune **réouverture officielle de la Mafia-Habbo** après le **18 février 2021**.
 
 ---
 
 ## Comment interpréter ces événements ?
 
-Une grande partie des sources utilisées pour reconstruire cette histoire provient directement des forums de la Mafia-Habbo.
+Les sources utilisées dans cette version du projet proviennent des **forums officiels de la Mafia-Habbo** et des documents qui y ont été publiés.
 
 Il est donc nécessaire de distinguer plusieurs niveaux.
+
+Pour une présentation complète de cette méthodologie :
+
+[Sources et archives](sources.md)
+
+---
 
 ### Les faits directement documentables
 
@@ -709,6 +737,8 @@ Il peut notamment s'agir :
 - d'un saccage publié ;
 - de la publication d'un communiqué ;
 - de la fermeture annoncée d'une organisation.
+
+---
 
 ### L'interprétation institutionnelle
 
@@ -725,6 +755,8 @@ Des expressions comme :
 peuvent traduire le point de vue de l'organisation plutôt qu'une réalité pouvant être vérifiée indépendamment.
 
 Ces formulations doivent donc être replacées dans le contexte de leur publication.
+
+---
 
 ### Le jeu de rôle
 
