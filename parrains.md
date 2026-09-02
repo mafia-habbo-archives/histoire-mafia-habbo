@@ -843,5 +843,6 @@ Pour consulter la méthodologie générale utilisée par cette archive :
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
 - [Sources et méthodologie](sources.md)
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 **Ad Vitam Æternam.**
