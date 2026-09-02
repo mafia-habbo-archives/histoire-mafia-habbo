@@ -82,6 +82,10 @@ Les principaux tournants de l'histoire de la Mafia-Habbo : fondation, crises int
 
 Forums officiels, chronologies, règlements, communiqués, captures et méthodologie utilisée pour reconstruire cette histoire.
 
+### [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
+
+Définitions des principaux termes, grades, fonctions et pratiques de la Mafia-Habbo et du RPK.
+
 ---
 
 ## Une archive fondée sur les forums officiels
