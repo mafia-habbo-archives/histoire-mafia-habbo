@@ -542,5 +542,6 @@ Pour une présentation complète des sources utilisées et de la méthodologie d
 - [Familles liées à la Mafia-Habbo](familles.md)
 - [Grands événements](evenements.md)
 - [Sources et archives](sources.md)
+- [Glossaire du RPK et de la Mafia-Habbo](glossaire.md)
 
 **Ad Vitam Æternam.**
